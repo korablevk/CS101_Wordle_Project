@@ -6,7 +6,6 @@ This project is a Wordle-solving algorithm implemented in Java. It systematicall
 ---
 
 ## Key Features
-- **Interactive Mode**: The `UserInterface` class allows users to input feedback and receive the next best guess.
 - **Decision Tree Algorithm**: The `WordleTree` class builds an optimized decision tree for solving Wordle puzzles efficiently.
 - **Simulation**: The `WordleSimulator` class tests different strategies and evaluates performance metrics.
 - **Feedback Matching**: Uses the `results.txt` file to match guesses with feedback and select the best next word.
