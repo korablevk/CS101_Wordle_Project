@@ -1,0 +1,2316 @@
+salet	00000	courd	00000	nymph	01000	jiffy	02102	fizzy	22222	
+salet	00000	courd	00000	nymph	01000	jiffy	22222	
+salet	00000	courd	00000	nymph	11000	kinky	22222	
+salet	00000	courd	00000	nymph	21000	ninny	22222	
+salet	00000	courd	00000	nymph	12000	vying	22222	
+salet	00000	courd	00000	nymph	10100	minim	22222	
+salet	00000	courd	00000	nymph	02110	pygmy	22222	
+salet	00000	courd	00000	nymph	01021	hippy	22222	
+salet	00000	courd	00000	nymph	01220	wimpy	22222	
+salet	00000	courd	00000	nymph	00001	whiff	22222	
+salet	00000	courd	00000	nymph	22222	
+salet	00000	courd	00000	nymph	11001	whiny	22222	
+salet	00000	courd	00000	nymph	01010	piggy	22222	
+salet	00000	courd	00000	nymph	11010	pinky	22222	
+salet	00000	courd	10000	wimpy	02010	pinch	22222	
+salet	00000	courd	10000	wimpy	01000	icing	22222	
+salet	00000	courd	10000	wimpy	02012	picky	22222	
+salet	00000	courd	10000	wimpy	21000	which	22222	
+salet	00000	courd	10000	wimpy	02000	finch	22222	
+salet	00000	courd	10000	wimpy	22000	winch	22222	
+salet	00000	courd	10000	wimpy	02200	mimic	22222	
+salet	00000	courd	20000	civic	22222	
+salet	00000	courd	20000	civic	21001	chick	22222	
+salet	00000	courd	20000	civic	22001	cinch	22222	
+salet	00000	courd	20000	civic	20022	cynic	22222	
+salet	00000	courd	01000	whoop	22222	
+salet	00000	courd	01000	whoop	10200	known	22222	
+salet	00000	courd	01000	whoop	00020	inbox	22222	
+salet	00000	courd	01000	whoop	00100	bingo	22222	
+salet	00000	courd	01000	whoop	02201	phony	22222	
+salet	00000	courd	01000	whoop	10100	owing	22222	
+salet	00000	courd	01000	whoop	01101	hippo	22222	
+salet	00000	courd	01000	whoop	00120	onion	22222	
+salet	00000	courd	11000	knock	22222	
+salet	00000	courd	21000	chock	22222	
+salet	00000	courd	02000	boozy	02222	woozy	22222	
+salet	00000	courd	02000	boozy	22100	bongo	22222	
+salet	00000	courd	02000	boozy	22222	
+salet	00000	courd	02000	boozy	02000	going	22222	
+salet	00000	courd	02000	boozy	02002	foggy	22222	
+salet	00000	courd	02000	boozy	02002	foggy	02002	poppy	22222	
+salet	00000	courd	02000	boozy	12002	hobby	22222	
+salet	00000	courd	02000	boozy	22002	bobby	22222	
+salet	00000	courd	02000	boozy	02202	goofy	22222	
+salet	00000	courd	02000	boozy	22202	booby	22222	
+salet	00000	courd	12000	ionic	22222	
+salet	00000	courd	12000	ionic	02001	pooch	22222	
+salet	00000	courd	22000	conic	22022	comic	22222	
+salet	00000	courd	22000	conic	22222	
+salet	00000	courd	22000	conic	22000	comfy	22222	
+salet	00000	courd	22000	conic	22201	conch	22222	
+salet	00000	courd	00100	gimpy	00002	funny	02222	bunny	22222	
+salet	00000	courd	00100	gimpy	00002	funny	22222	
+salet	00000	courd	00100	gimpy	00002	funny	22002	fuzzy	22222	
+salet	00000	courd	00100	gimpy	00002	funny	02202	hunky	22222	
+salet	00000	courd	00100	gimpy	00002	funny	22202	funky	22222	
+salet	00000	courd	00100	gimpy	10002	buggy	22222	
+salet	00000	courd	00100	gimpy	11000	fungi	22222	
+salet	00000	courd	00100	gimpy	00202	mummy	22222	
+salet	00000	courd	00100	gimpy	01002	unify	22222	
+salet	00000	courd	00100	gimpy	20202	gummy	22222	
+salet	00000	courd	00100	gimpy	00220	humph	22222	
+salet	00000	courd	00100	gimpy	00022	puppy	22222	
+salet	00000	courd	00100	gimpy	20022	guppy	22222	
+salet	00000	courd	00100	gimpy	00222	jumpy	22222	
+salet	00000	courd	00100	gimpy	00012	puffy	22222	
+salet	00000	courd	00100	gimpy	01010	unzip	22222	
+salet	00000	courd	10100	hempy	00000	quick	22222	
+salet	00000	courd	10100	hempy	10000	bunch	22222	
+salet	00000	courd	10100	hempy	20000	hunch	22222	
+salet	00000	courd	10100	hempy	00002	juicy	22222	
+salet	00000	courd	10100	hempy	10100	munch	22222	
+salet	00000	courd	10100	hempy	00010	pubic	22222	
+salet	00000	courd	10100	hempy	00102	mucky	22222	
+salet	00000	courd	10100	hempy	10010	punch	22222	
+salet	00000	courd	01021	hydro	22222	
+salet	00000	courd	20100	cumin	22222	
+salet	00000	courd	20100	cumin	22020	cubic	22222	
+salet	00000	courd	01100	jumbo	02222	gumbo	22222	
+salet	00000	courd	01100	jumbo	22222	
+salet	00000	courd	01100	jumbo	01001	union	22222	
+salet	00000	courd	01100	jumbo	02111	buxom	22222	
+salet	00000	courd	01100	jumbo	01101	opium	22222	
+salet	00000	courd	02021	dowry	22222	
+salet	00000	courd	20200	chunk	22222	
+salet	00000	courd	20200	chunk	22200	chump	22222	
+salet	00000	courd	20200	chunk	22202	chuck	22222	
+salet	00000	courd	02200	bough	22222	
+salet	00000	courd	02200	bough	02210	young	22222	
+salet	00000	courd	12200	vouch	02222	pouch	22222	
+salet	00000	courd	12200	vouch	22222	
+salet	00000	courd	22200	couch	22222	
+salet	00000	courd	22200	couch	22202	cough	22222	
+salet	00000	courd	00010	buggy	20000	brink	22222	
+salet	00000	courd	00010	buggy	00002	privy	22222	
+salet	00000	courd	00010	buggy	20002	briny	22222	
+salet	00000	courd	00010	buggy	00100	wring	22222	
+salet	00000	courd	00010	buggy	20100	bring	22222	
+salet	00000	courd	00010	buggy	00102	grimy	22222	
+salet	00000	courd	10010	prick	02222	brick	22222	
+salet	00000	courd	10010	prick	01120	birch	22222	
+salet	00000	courd	10010	prick	22222	
+salet	00000	courd	20010	crimp	22222	
+salet	00000	courd	20010	crimp	22200	crick	22222	
+salet	00000	courd	01010	gimpy	00000	frown	02222	brown	22222	
+salet	00000	courd	01010	gimpy	00000	frown	22222	
+salet	00000	courd	01010	gimpy	00000	frown	02200	brook	22222	
+salet	00000	courd	01010	gimpy	10000	wrong	22222	
+salet	00000	courd	01010	gimpy	20000	grown	22222	
+salet	00000	courd	01010	gimpy	01000	rhino	22222	
+salet	00000	courd	01010	gimpy	21000	groin	22222	
+salet	00000	courd	01010	gimpy	01002	irony	22222	
+salet	00000	courd	01010	gimpy	12000	vigor	02222	rigor	22222	
+salet	00000	courd	01010	gimpy	12000	vigor	22222	
+salet	00000	courd	01010	gimpy	01110	primo	22222	
+salet	00000	courd	01010	gimpy	00100	broom	22222	
+salet	00000	courd	01010	gimpy	20100	groom	22222	
+salet	00000	courd	01010	gimpy	02100	minor	22222	
+salet	00000	courd	01010	gimpy	00010	proof	22222	
+salet	00000	courd	01010	gimpy	10010	prong	22222	
+salet	00000	courd	01010	gimpy	00012	proxy	22222	
+salet	00000	courd	01010	gimpy	01010	prior	22222	
+salet	00000	courd	11010	frock	22222	
+salet	00000	courd	21010	heron	00110	crock	22222	
+salet	00000	courd	21010	heron	10110	choir	22222	
+salet	00000	courd	21010	heron	00111	crony	22222	
+salet	00000	courd	21010	heron	00112	crown	22222	
+salet	00000	courd	21010	heron	00120	crook	22222	
+salet	00000	courd	02010	moron	02102	robin	22222	
+salet	00000	courd	02010	moron	22222	
+salet	00000	courd	02010	moron	02210	forgo	22222	
+salet	00000	courd	02010	moron	02121	honor	22222	
+salet	00000	courd	02010	moron	02201	horny	22222	
+salet	00000	courd	02010	moron	22200	morph	22222	
+salet	00000	courd	02010	moron	12110	roomy	22222	
+salet	00000	courd	12010	porch	22222	
+salet	00000	courd	12010	porch	02110	rocky	22222	
+salet	00000	courd	00002	vivid	22222	
+salet	00000	courd	22010	corny	22222	
+salet	00000	courd	00110	murky	02102	rugby	22222	
+salet	00000	courd	00110	murky	22222	
+salet	00000	courd	10110	incur	22222	
+salet	00000	courd	01002	ovoid	22222	
+salet	00000	courd	20110	curvy	22222	
+salet	00000	courd	01110	furor	02222	juror	22222	
+salet	00000	courd	01110	furor	22222	
+salet	00000	courd	01110	furor	01110	group	22222	
+salet	00000	courd	01110	furor	02122	rumor	22222	
+salet	00000	courd	01110	furor	02022	humor	22222	
+salet	00000	courd	11110	occur	22222	
+salet	00000	courd	21110	croup	22222	
+salet	00000	courd	21110	croup	21110	curio	22222	
+salet	00000	courd	02110	forum	22222	
+salet	00000	courd	00102	humid	22222	
+salet	00000	courd	00102	humid	01022	undid	22222	
+salet	00000	courd	00210	wrung	22222	
+salet	00000	courd	00210	wrung	02201	gruff	22222	
+salet	00000	courd	20210	crump	22220	crumb	22222	
+salet	00000	courd	20210	crump	22222	
+salet	00000	courd	02210	rough	22222	
+salet	00000	courd	00020	myrrh	22222	
+salet	00000	courd	20020	chirp	22222	
+salet	00000	courd	01020	ivory	22222	
+salet	00000	courd	11020	micro	22222	
+salet	00000	courd	02202	bumph	01000	found	02222	wound	22222	
+salet	00000	courd	02202	bumph	01000	found	22222	
+salet	00000	courd	02202	bumph	01001	hound	22222	
+salet	00000	courd	02202	bumph	21000	bound	22222	
+salet	00000	courd	02202	bumph	01100	mound	22222	
+salet	00000	courd	02202	bumph	01010	pound	22222	
+salet	00000	courd	02020	worry	22222	
+salet	00000	courd	00012	grind	22222	
+salet	00000	courd	00012	grind	11102	rigid	22222	
+salet	00000	courd	00120	furry	02222	hurry	22222	
+salet	00000	courd	00120	furry	22222	
+salet	00000	courd	00120	furry	02020	quirk	22222	
+salet	00000	courd	01012	brood	22222	
+salet	00000	courd	01012	brood	02202	frond	22222	
+salet	00000	courd	20120	curry	22222	
+salet	00000	courd	21012	crowd	22222	
+salet	00000	courd	01112	proud	22222	
+salet	00000	courd	20220	churn	22222	
+salet	00000	courd	02220	mourn	22222	
+salet	00000	courd	00212	druid	22222	
+salet	00000	courd	00001	dying	22222	
+salet	00000	courd	00001	dying	11110	windy	22222	
+salet	00000	courd	00001	dying	21111	dingy	22222	
+salet	00000	courd	00001	dying	11100	biddy	22222	
+salet	00000	courd	00001	dying	21100	dizzy	22222	
+salet	00000	courd	00001	dying	11101	giddy	22222	
+salet	00000	courd	01001	widow	01120	idiom	22222	
+salet	00000	courd	01001	widow	22222	
+salet	00000	courd	01001	widow	02110	dingo	22222	
+salet	00000	courd	02212	round	22222	
+salet	00000	courd	02001	howdy	02222	dowdy	22222	
+salet	00000	courd	02001	howdy	02010	doing	22222	
+salet	00000	courd	02001	howdy	22222	
+salet	00000	courd	02001	howdy	02012	dodgy	22222	
+salet	00000	courd	02001	howdy	02212	downy	22222	
+salet	00000	courd	02001	howdy	02122	woody	22222	
+salet	00000	courd	02001	howdy	02022	goody	02222	moody	22222	
+salet	00000	courd	02001	howdy	02022	goody	22222	
+salet	00000	courd	22001	condo	22222	
+salet	00000	courd	00101	dumpy	12102	muddy	22222	
+salet	00000	courd	00101	dumpy	22222	
+salet	00000	courd	00101	dumpy	12012	pudgy	22222	
+salet	00000	courd	00101	dumpy	12002	buddy	22222	
+salet	00000	courd	00101	dumpy	22202	dummy	22222	
+salet	00000	courd	10101	duchy	22222	
+salet	00000	courd	01022	fjord	22222	
+salet	00000	courd	21022	chord	22222	
+salet	00000	courd	02201	dough	22222	
+salet	00000	courd	00011	drink	22222	
+salet	00000	courd	01011	droop	22222	
+salet	00000	courd	01011	droop	22200	drown	22222	
+salet	00000	courd	02222	gourd	22222	
+salet	00000	courd	02011	rowdy	12010	donor	22222	
+salet	00000	courd	02011	rowdy	22222	
+salet	00000	courd	02011	rowdy	12122	wordy	22222	
+salet	00000	courd	00111	ruddy	22222	
+salet	00000	courd	00211	drunk	22222	
+salet	10000	mucho	00000	brisk	02222	frisk	22222	
+salet	10000	mucho	00000	brisk	22222	
+salet	10000	mucho	00000	brisk	00110	wispy	22222	
+salet	10000	mucho	00000	brisk	00020	gypsy	22222	
+salet	10000	mucho	00000	brisk	01111	risky	22222	
+salet	10000	mucho	00000	brisk	00120	gipsy	22222	
+salet	10000	mucho	10000	prism	22222	
+salet	10000	mucho	20000	missy	22222	
+salet	10000	mucho	01000	using	22222	
+salet	10000	mucho	01000	using	22000	usurp	22222	
+salet	10000	mucho	01000	using	11100	virus	22222	
+salet	10000	mucho	21000	minus	22222	
+salet	10000	mucho	02000	dusky	22222	
+salet	10000	mucho	02000	dusky	02202	fussy	22222	
+salet	10000	mucho	22000	musky	22222	
+salet	10000	mucho	00100	crisp	22222	
+salet	10000	mucho	22100	music	22222	
+salet	10000	mucho	00001	dross	00121	bossy	22222	
+salet	10000	mucho	00001	dross	02222	gross	22222	
+salet	10000	mucho	00001	dross	22222	
+salet	10000	mucho	00001	dross	00110	bison	22222	
+salet	10000	mucho	00001	dross	01110	visor	22222	
+salet	10000	mucho	00001	dross	00220	kiosk	22222	
+salet	10000	mucho	00001	dross	00120	noisy	22222	
+salet	10000	mucho	10001	bosom	22222	
+salet	10000	mucho	20001	mossy	22222	
+salet	10000	mucho	01001	bonus	22222	
+salet	10000	mucho	01200	ficus	22222	
+salet	10000	mucho	22200	mucus	22222	
+salet	10000	mucho	00101	cross	22222	
+salet	10000	mucho	00010	whisk	22222	
+salet	10000	mucho	01010	brush	22222	
+salet	10000	mucho	02010	husky	22222	
+salet	10000	mucho	02010	husky	22202	hussy	22222	
+salet	10000	mucho	12010	humus	22222	
+salet	10000	mucho	01201	focus	22222	
+salet	10000	mucho	01110	crush	22222	
+salet	10000	mucho	00102	disco	22222	
+salet	10000	mucho	00020	fishy	22222	
+salet	10000	mucho	02020	pushy	02222	bushy	22222	
+salet	10000	mucho	02020	pushy	22222	
+salet	10000	mucho	22020	mushy	22222	
+salet	20000	unrip	00000	shock	22222	
+salet	20000	unrip	00000	shock	20201	smoky	22222	
+salet	20000	unrip	00000	shock	22200	showy	22222	
+salet	20000	unrip	00000	shock	20100	soggy	22222	
+salet	20000	unrip	00000	shock	22202	shook	22222	
+salet	20000	unrip	00000	shock	20222	smock	22222	
+salet	20000	unrip	00000	shock	20210	scoff	22222	
+salet	20000	unrip	10000	shuck	22222	
+salet	20000	unrip	10000	shuck	22200	shush	22222	
+salet	20000	unrip	01000	shown	20212	swoon	22222	
+salet	20000	unrip	01000	shown	22222	
+salet	20000	unrip	01000	shown	20101	synod	22222	
+salet	20000	unrip	11000	goner	00200	sunny	22222	
+salet	20000	unrip	11000	goner	00100	skunk	22222	
+salet	20000	unrip	11000	goner	10100	swung	22222	
+salet	20000	unrip	11000	goner	02100	sound	22222	
+salet	20000	unrip	02000	snowy	22222	
+salet	20000	unrip	12000	snuck	22222	
+salet	20000	unrip	12000	snuck	22200	snuff	22222	
+salet	20000	unrip	00100	sword	22222	
+salet	20000	unrip	10100	scour	22222	
+salet	20000	unrip	01100	bench	00110	scorn	22222	
+salet	20000	unrip	01100	bench	00100	sworn	22222	
+salet	20000	unrip	01100	bench	00101	shorn	22222	
+salet	20000	unrip	00001	spoof	22220	spook	22222	
+salet	20000	unrip	00001	spoof	22222	
+salet	20000	unrip	00200	sorry	22222	
+salet	20000	unrip	10200	shrub	22220	shrug	22222	
+salet	20000	unrip	10200	shrub	22222	
+salet	20000	unrip	10200	shrub	20220	scrum	22222	
+salet	20000	unrip	10200	shrub	20222	scrub	22222	
+salet	20000	unrip	01001	spoon	22222	
+salet	20000	unrip	11001	spunk	22222	
+salet	20000	unrip	00221	sprig	22222	
+salet	20000	unrip	00010	sissy	22222	
+salet	20000	unrip	00010	sissy	21000	skiff	22222	
+salet	20000	unrip	00010	sissy	21020	swish	22222	
+salet	20000	unrip	10010	sushi	22222	
+salet	20000	unrip	01010	shiny	22222	
+salet	20000	unrip	01010	shiny	20220	swing	22222	
+salet	20000	unrip	01010	shiny	20210	scion	22222	
+salet	20000	unrip	11101	spurn	22222	
+salet	20000	unrip	11010	suing	22222	
+salet	20000	unrip	02010	sniff	22222	
+salet	20000	unrip	00002	scoop	22222	
+salet	20000	unrip	00002	scoop	20222	swoop	22222	
+salet	20000	unrip	00110	shirk	22222	
+salet	20000	unrip	00110	shirk	20222	smirk	22222	
+salet	20000	unrip	02002	snoop	22222	
+salet	20000	unrip	00011	spicy	22222	
+salet	20000	unrip	00011	spicy	22202	spiky	22222	
+salet	20000	unrip	01011	spiny	22222	
+salet	20000	unrip	10202	syrup	22222	
+salet	20000	unrip	10020	squib	22222	
+salet	20000	unrip	01020	sonic	22222	
+salet	20000	unrip	00012	skimp	22222	
+salet	01000	brond	00000	champ	00200	guava	22222	
+salet	01000	brond	00000	champ	22222	
+salet	01000	brond	00000	champ	10200	quack	22222	
+salet	01000	brond	00000	champ	02200	khaki	22222	
+salet	01000	brond	00000	champ	00100	affix	22222	
+salet	01000	brond	00000	champ	12200	whack	22222	
+salet	01000	brond	00000	champ	22200	chaff	22222	
+salet	01000	brond	00000	champ	00101	pizza	22222	
+salet	01000	brond	10000	aback	22222	
+salet	01000	brond	01211	adorn	22222	
+salet	01000	brond	01000	chair	22222	
+salet	01000	brond	01000	chair	00201	quark	22222	
+salet	01000	brond	01000	chair	20111	circa	22222	
+salet	01000	brond	01000	chair	10112	vicar	22222	
+salet	01000	brond	01000	chair	20112	cigar	22222	
+salet	01000	brond	01000	chair	02201	wharf	22222	
+salet	01000	brond	01000	chair	22201	charm	22222	
+salet	01000	brond	01000	chair	00102	augur	22222	
+salet	01000	brond	11000	rumba	22222	
+salet	01000	brond	11000	rumba	11112	umbra	22222	
+salet	01000	brond	02000	copay	00110	graph	22222	
+salet	01000	brond	02000	copay	20110	cramp	22222	
+salet	01000	brond	02000	copay	00020	friar	22222	
+salet	01000	brond	02000	copay	00022	array	22222	
+salet	01000	brond	02000	copay	10010	wrack	22222	
+salet	01000	brond	02000	copay	20010	crack	22222	
+salet	01000	brond	02000	copay	00012	gravy	22222	
+salet	01000	brond	02000	copay	20012	crazy	22222	
+salet	01000	brond	00112	gonad	22222	
+salet	01000	brond	00112	gonad	02122	nomad	22222	
+salet	01000	brond	22000	briar	22222	
+salet	01000	brond	00220	among	22222	
+salet	01000	brond	00220	among	20221	agony	22222	
+salet	01000	brond	00100	comma	12102	mocha	22222	
+salet	01000	brond	00100	comma	22222	
+salet	01000	brond	00100	comma	22001	coach	22222	
+salet	01000	brond	00100	comma	22002	cocoa	22222	
+salet	01000	brond	00100	comma	01101	axiom	22222	
+salet	01000	brond	00100	comma	02021	foamy	22222	
+salet	01000	brond	01100	foray	22222	
+salet	01000	brond	01100	foray	01112	ovary	22222	
+salet	01000	brond	01100	foray	02110	roach	22222	
+salet	01000	brond	11100	cobra	22222	
+salet	01000	brond	11100	cobra	01111	abhor	22222	
+salet	01000	brond	02021	drank	22222	
+salet	01000	brond	21100	borax	22222	
+salet	01000	brond	02100	armor	22222	
+salet	01000	brond	02100	armor	22021	arrow	22222	
+salet	01000	brond	12100	arbor	22222	
+salet	01000	brond	22100	bravo	22222	
+salet	01000	brond	01001	dwarf	22222	
+salet	01000	brond	01001	dwarf	20220	diary	22222	
+salet	01000	brond	01200	agora	22222	
+salet	01000	brond	02001	drama	22222	
+salet	01000	brond	02200	croak	22222	
+salet	01000	brond	02200	croak	02210	aroma	22222	
+salet	01000	brond	00101	vodka	02102	dogma	22222	
+salet	01000	brond	00101	vodka	22222	
+salet	01000	brond	00101	vodka	01201	audio	22222	
+salet	01000	brond	00010	again	22222	
+salet	01000	brond	00010	again	00201	knack	22222	
+salet	01000	brond	00010	again	10002	human	22222	
+salet	01000	brond	00010	again	20112	avian	22222	
+salet	01000	brond	00010	again	00222	chain	22222	
+salet	01000	brond	00010	again	10011	ninja	22222	
+salet	01000	brond	01010	angry	22222	
+salet	01000	brond	02022	grand	22222	
+salet	01000	brond	02101	ardor	22222	
+salet	01000	brond	22022	brand	22222	
+salet	01000	brond	02010	prawn	22222	
+salet	01000	brond	02010	prawn	02202	grain	22222	
+salet	01000	brond	12010	urban	22222	
+salet	01000	brond	00002	aphid	22222	
+salet	01000	brond	22010	brawn	22222	
+salet	01000	brond	22010	brawn	22202	brain	22222	
+salet	01000	brond	00110	annoy	22222	
+salet	01000	brond	00110	annoy	21020	axion	22222	
+salet	01000	brond	00110	annoy	11010	woman	22222	
+salet	01000	brond	01002	acrid	22222	
+salet	01000	brond	01002	acrid	10102	guard	22222	
+salet	01000	brond	01002	acrid	20102	award	22222	
+salet	01000	brond	01002	acrid	11102	chard	22222	
+salet	01000	brond	01110	apron	22222	
+salet	01000	brond	02002	fraud	22222	
+salet	01000	brond	02110	organ	22222	
+salet	01000	brond	22002	braid	22222	
+salet	01000	brond	00011	admin	22222	
+salet	01000	brond	01102	hoard	22222	
+salet	01000	brond	01210	acorn	22222	
+salet	01000	brond	21102	board	22222	
+salet	01000	brond	02011	drain	22222	
+salet	01000	brond	02011	drain	22202	drawn	22222	
+salet	01000	brond	02210	groan	22222	
+salet	01000	brond	00202	avoid	22222	
+salet	01000	brond	00020	aging	22222	
+salet	01000	brond	00020	aging	10220	china	22222	
+salet	01000	brond	00020	aging	20222	aping	22222	
+salet	01000	brond	02020	focal	00110	crank	22222	
+salet	01000	brond	02020	focal	00010	prank	22222	
+salet	01000	brond	02020	focal	20010	frank	22222	
+salet	01000	brond	22202	broad	22222	
+salet	01000	brond	00120	piano	22222	
+salet	11000	crags	02101	arson	22222	
+salet	11000	crags	00201	quasi	22220	quash	22222	
+salet	11000	crags	00201	quasi	22222	
+salet	11000	crags	00201	quasi	00220	awash	22222	
+salet	11000	crags	02211	grasp	22222	
+salet	11000	crags	20201	chasm	22222	
+salet	11000	crags	02201	brash	22222	
+salet	11000	crags	22201	crash	22222	
+salet	11000	crags	00102	abyss	22222	
+salet	11000	crags	00102	abyss	20022	amiss	22222	
+salet	11000	crags	00202	amass	22222	
+salet	11000	crags	02212	grass	22222	
+salet	11000	crags	20202	chaos	22222	
+salet	11000	crags	00101	assay	22222	
+salet	11000	crags	02202	brass	22222	
+salet	11000	crags	22202	crass	22222	
+salet	11000	crags	00211	gnash	22222	
+salet	21000	cramp	00201	spawn	22222	
+salet	21000	cramp	00201	spawn	21200	soapy	22222	
+salet	21000	cramp	00201	spawn	22201	spank	22222	
+salet	21000	cramp	10110	sumac	22222	
+salet	21000	cramp	01201	spark	22222	
+salet	21000	cramp	11110	scram	22222	
+salet	21000	cramp	00220	swami	22222	
+salet	21000	cramp	00100	squad	22222	
+salet	21000	cramp	10100	scuba	22222	
+salet	21000	cramp	00222	swamp	22222	
+salet	21000	cramp	10222	scamp	22222	
+salet	21000	cramp	01100	sugar	22222	
+salet	21000	cramp	01100	sugar	20022	sonar	22222	
+salet	21000	cramp	00210	smash	22222	
+salet	21000	cramp	10210	smack	22222	
+salet	21000	cramp	11102	scrap	22222	
+salet	21000	cramp	01210	swarm	22222	
+salet	21000	cramp	00200	shady	22222	
+salet	21000	cramp	00200	shady	20202	snaky	22222	
+salet	21000	cramp	00200	shady	21200	swash	22222	
+salet	21000	cramp	00200	shady	22200	shank	22222	
+salet	21000	cramp	00200	shady	22202	shaky	22222	
+salet	21000	cramp	10200	shack	22222	
+salet	21000	cramp	10200	shack	20222	snack	22222	
+salet	21000	cramp	01200	shard	22220	shark	22222	
+salet	21000	cramp	01200	shard	22222	
+salet	21000	cramp	11200	scarf	22220	scary	22222	
+salet	21000	cramp	11200	scarf	22222	
+salet	21000	cramp	01202	sharp	22222	
+salet	21000	cramp	01101	spray	22222	
+salet	21000	cramp	00211	spasm	22222	
+salet	21000	cramp	00120	sigma	22222	
+salet	02000	corny	00000	gamma	02222	mamma	22222	
+salet	02000	corny	00000	gamma	02102	mafia	22222	
+salet	02000	corny	00000	gamma	22222	
+salet	02000	corny	00000	gamma	02000	vapid	22222	
+salet	02000	corny	00000	gamma	02002	kappa	22222	
+salet	02000	corny	00000	gamma	12122	magma	22222	
+salet	02000	corny	00000	gamma	02110	maxim	22222	
+salet	02000	corny	00000	gamma	02111	madam	22222	
+salet	02000	corny	10000	magic	22222	
+salet	02000	corny	10000	magic	22001	macaw	22222	
+salet	02000	corny	01000	mambo	22222	
+salet	02000	corny	11000	havoc	22222	
+salet	02000	corny	11000	havoc	12011	macho	22222	
+salet	02000	corny	21000	cacao	22222	
+salet	02000	corny	00112	randy	22222	
+salet	02000	corny	00100	rabid	22022	rapid	22222	
+salet	02000	corny	00100	rabid	22222	
+salet	02000	corny	00100	rabid	22210	rabbi	22222	
+salet	02000	corny	00100	rabid	22000	rajah	22222	
+salet	02000	corny	00100	rabid	22001	radar	22222	
+salet	02000	corny	00100	rabid	22021	radii	22222	
+salet	02000	corny	01100	movie	01000	razor	22222	
+salet	02000	corny	01100	movie	21000	major	22222	
+salet	02000	corny	01100	movie	01200	favor	22222	
+salet	02000	corny	01100	movie	01020	radio	22222	
+salet	02000	corny	01100	movie	01100	vapor	22222	
+salet	02000	corny	11100	macro	22222	
+salet	02000	corny	00001	kayak	22222	
+salet	02000	corny	00200	karma	22222	
+salet	02000	corny	00200	karma	12202	parka	22222	
+salet	02000	corny	10200	march	22222	
+salet	02000	corny	01001	bayou	22222	
+salet	02000	corny	21200	cargo	22222	
+salet	02000	corny	00022	fanny	02222	nanny	22222	
+salet	02000	corny	00022	fanny	22222	
+salet	02000	corny	20022	canny	22222	
+salet	02000	corny	00010	pagan	02011	mania	22222	
+salet	02000	corny	00010	pagan	22222	
+salet	02000	corny	00010	pagan	02111	manga	22222	
+salet	02000	corny	10010	panic	02222	manic	22222	
+salet	02000	corny	10010	panic	22222	
+salet	02000	corny	20010	cabin	22222	
+salet	02000	corny	01101	mayor	22222	
+salet	02000	corny	01010	wagon	02011	banjo	22222	
+salet	02000	corny	01010	wagon	22222	
+salet	02000	corny	01010	wagon	02111	mango	22222	
+salet	02000	corny	11010	bacon	22222	
+salet	02000	corny	21010	canon	22222	
+salet	02000	corny	00122	rainy	22222	
+salet	02000	corny	00002	pudgy	00002	mammy	22222	
+salet	02000	corny	00002	pudgy	00002	mammy	02002	jazzy	22222	
+salet	02000	corny	00002	pudgy	10002	happy	22222	
+salet	02000	corny	00002	pudgy	00202	daddy	22222	
+salet	02000	corny	00002	pudgy	20202	paddy	22222	
+salet	02000	corny	00002	pudgy	00022	baggy	22222	
+salet	02000	corny	00002	pudgy	01112	gaudy	22222	
+salet	02000	corny	00002	pudgy	00102	bawdy	22222	
+salet	02000	corny	00002	pudgy	00012	gawky	22222	
+salet	02000	corny	10002	wacky	22222	
+salet	02000	corny	00110	nadir	22222	
+salet	02000	corny	20002	caddy	22222	
+salet	02000	corny	20002	caddy	22002	cabby	22222	
+salet	02000	corny	10110	ranch	22222	
+salet	02000	corny	20110	cairn	22222	
+salet	02000	corny	01110	manor	22222	
+salet	02000	corny	00102	dwarf	00121	fairy	22222	
+salet	02000	corny	00102	dwarf	20120	dairy	22222	
+salet	02000	corny	00102	dwarf	00120	hairy	22222	
+salet	02000	corny	01210	baron	22222	
+salet	02000	corny	00202	depth	00000	marry	22222	
+salet	02000	corny	00202	depth	00001	harry	22222	
+salet	02000	corny	00202	depth	10001	hardy	22222	
+salet	02000	corny	00202	depth	00100	parry	22222	
+salet	02000	corny	00202	depth	00101	harpy	22222	
+salet	02000	corny	00020	fauna	22222	
+salet	02000	corny	20202	carry	22222	
+salet	02000	corny	01111	rayon	22222	
+salet	02000	corny	00012	dandy	02222	handy	22222	
+salet	02000	corny	00012	dandy	22222	
+salet	02000	corny	00012	dandy	02202	mangy	22222	
+salet	02000	corny	10012	fancy	22222	
+salet	02000	corny	20012	candy	22222	
+salet	12000	crimp	00000	gassy	22222	
+salet	12000	crimp	00001	pansy	22222	
+salet	12000	crimp	00200	daisy	22222	
+salet	12000	crimp	01000	harsh	22222	
+salet	12000	crimp	01001	raspy	22222	
+salet	12000	crimp	00100	basin	22220	basis	22222	
+salet	12000	crimp	00100	basin	22222	
+salet	12000	crimp	10100	basic	22222	
+salet	12000	crimp	00010	mason	22222	
+salet	12000	crimp	01010	marsh	22222	
+salet	22000	copsy	01012	savoy	22222	
+salet	22000	copsy	00022	sassy	22222	
+salet	22000	copsy	00010	sauna	22222	
+salet	22000	copsy	00012	savvy	22222	
+salet	22000	copsy	00012	savvy	22002	sandy	22222	
+salet	22000	copsy	01010	savor	22222	
+salet	22000	copsy	10012	saucy	22222	
+salet	22000	copsy	00212	sappy	22222	
+salet	00100	courd	00000	lying	22222	
+salet	00100	courd	00000	lying	10200	blimp	22222	
+salet	00100	courd	00000	lying	11001	glyph	22222	
+salet	00100	courd	00000	lying	22000	lymph	22222	
+salet	00100	courd	00000	lying	11110	vinyl	22222	
+salet	00100	courd	00000	lying	10220	blink	22222	
+salet	00100	courd	00000	lying	10101	vigil	22222	
+salet	00100	courd	00000	lying	10222	fling	22222	
+salet	00100	courd	00000	lying	11100	imply	22222	
+salet	00100	courd	10000	flick	01210	icily	22222	
+salet	00100	courd	10000	flick	22222	
+salet	00100	courd	10000	flick	01020	lynch	22222	
+salet	00100	courd	20000	knoll	00002	civil	22222	
+salet	00100	courd	20000	knoll	00020	chili	22222	
+salet	00100	courd	20000	knoll	00022	chill	22222	
+salet	00100	courd	20000	knoll	00010	cliff	22222	
+salet	00100	courd	20000	knoll	00010	cliff	22200	climb	22222	
+salet	00100	courd	20000	knoll	10010	click	22222	
+salet	00100	courd	20000	knoll	01010	cling	22222	
+salet	00100	courd	20000	knoll	11010	clink	22222	
+salet	00100	courd	01000	blown	02222	flown	22222	
+salet	00100	courd	01000	blown	22222	
+salet	00100	courd	01000	blown	01201	knoll	22222	
+salet	00100	courd	01000	blown	02200	gloom	22222	
+salet	00100	courd	01000	blown	22200	bloom	22222	
+salet	00100	courd	01000	blown	11100	limbo	22222	
+salet	00100	courd	01000	blown	01101	lingo	22222	
+salet	00100	courd	02012	world	22222	
+salet	00100	courd	11000	flock	02222	block	22222	
+salet	00100	courd	11000	flock	22222	
+salet	00100	courd	21000	clock	22222	
+salet	00100	courd	21000	clock	22200	clown	22222	
+salet	00100	courd	02000	wooly	02010	login	22222	
+salet	00100	courd	02000	wooly	22222	
+salet	00100	courd	02000	wooly	02012	lobby	22222	
+salet	00100	courd	02000	wooly	02212	loopy	22222	
+salet	00100	courd	02000	wooly	02022	nobly	22222	
+salet	00100	courd	02000	wooly	12022	lowly	22222	
+salet	00100	courd	00112	lurid	22222	
+salet	00100	courd	12000	logic	22222	
+salet	00100	courd	22000	coyly	22222	
+salet	00100	courd	00220	blurb	22222	
+salet	00100	courd	00100	pupil	22222	
+salet	00100	courd	00100	pupil	02012	quill	22222	
+salet	00100	courd	00100	pupil	12001	lumpy	22222	
+salet	00100	courd	10100	lunch	22222	
+salet	00100	courd	10100	lunch	22010	lucky	22222	
+salet	00100	courd	01100	ghoul	22222	
+salet	00100	courd	02100	mogul	22222	
+salet	00100	courd	00001	idyll	22222	
+salet	00100	courd	00001	idyll	11120	dimly	22222	
+salet	00100	courd	00200	flunk	22220	flung	22222	
+salet	00100	courd	00200	flunk	02222	plunk	22222	
+salet	00100	courd	00200	flunk	22222	
+salet	00100	courd	00200	flunk	02200	plumb	22220	plump	22222	
+salet	00100	courd	00200	flunk	02200	plumb	22222	
+salet	00100	courd	00200	flunk	12200	bluff	22222	
+salet	00100	courd	00200	flunk	22200	fluff	22222	
+salet	00100	courd	10200	pluck	22222	
+salet	00100	courd	20200	karma	00000	clung	22222	
+salet	00100	courd	20200	karma	10000	cluck	22222	
+salet	00100	courd	20200	karma	00020	clump	22222	
+salet	00100	courd	01001	oddly	22222	
+salet	00100	courd	02001	godly	22222	
+salet	00100	courd	00010	feign	00000	wryly	22222	
+salet	00100	courd	00010	feign	00200	krill	22222	
+salet	00100	courd	00010	feign	20200	frill	22222	
+salet	00100	courd	00010	feign	00110	girly	22222	
+salet	00100	courd	00010	feign	00210	grill	22222	
+salet	00100	courd	10010	lyric	22222	
+salet	00100	courd	01010	growl	02222	prowl	22222	
+salet	00100	courd	01010	growl	22222	
+salet	00100	courd	01010	growl	01201	floor	22222	
+salet	00100	courd	01010	growl	02202	broil	22222	
+salet	00100	courd	00002	lipid	22022	livid	22222	
+salet	00100	courd	00002	lipid	22222	
+salet	00100	courd	00002	lipid	11002	blind	22222	
+salet	00100	courd	00110	burly	22222	
+salet	00100	courd	20002	child	22222	
+salet	00100	courd	10110	lurch	22222	
+salet	00100	courd	01002	flood	02222	blood	22222	
+salet	00100	courd	01002	flood	22222	
+salet	00100	courd	01002	flood	02202	blond	22222	
+salet	00100	courd	20110	curly	22222	
+salet	00100	courd	01110	flour	22222	
+salet	00100	courd	00102	guild	02222	build	22222	
+salet	00100	courd	00102	guild	22222	
+salet	00100	courd	00011	dryly	22222	
+salet	00100	courd	00011	dryly	22020	drill	22222	
+salet	00100	courd	10102	lucid	22222	
+salet	00100	courd	01011	droll	22222	
+salet	00100	courd	01011	droll	22202	drool	22222	
+salet	00100	courd	21102	cloud	22222	
+salet	00100	courd	00202	fluid	22222	
+salet	00100	courd	00020	whirl	22222	
+salet	00100	courd	01020	glory	22222	
+salet	00100	courd	02202	would	22222	
+salet	00100	courd	02020	lorry	22222	
+salet	00100	courd	22202	could	22222	
+salet	10100	boeuf	02010	lousy	22222	
+salet	10100	boeuf	20000	bliss	22222	
+salet	10100	boeuf	01000	gloss	22222	
+salet	10100	boeuf	01001	floss	22222	
+salet	10100	boeuf	00020	lupus	22222	
+salet	10100	boeuf	00010	plush	22222	
+salet	10100	boeuf	02020	locus	22222	
+salet	10100	boeuf	00011	flush	22222	
+salet	10100	boeuf	20010	blush	22222	
+salet	20100	plink	01000	shyly	22222	
+salet	20100	plink	01000	shyly	20020	scold	22222	
+salet	20100	plink	01000	shyly	20022	surly	22222	
+salet	20100	plink	01000	shyly	20010	scowl	22222	
+salet	20100	plink	11000	spool	22222	
+salet	20100	plink	01002	skulk	22222	
+salet	20100	plink	02000	slosh	22022	slush	22222	
+salet	20100	plink	02000	slosh	22222	
+salet	20100	plink	02000	slosh	22000	slyly	22222	
+salet	20100	plink	01201	skill	22222	
+salet	20100	plink	12000	slump	22222	
+salet	20100	plink	12000	slump	22002	sloop	22222	
+salet	20100	plink	12000	slump	22202	slurp	22222	
+salet	20100	plink	11100	spoil	22222	
+salet	20100	plink	02220	sling	22222	
+salet	20100	plink	02222	slink	22222	
+salet	20100	plink	01001	skull	22222	
+salet	20100	plink	01200	swirl	22222	
+salet	20100	plink	01200	swirl	22202	swill	22222	
+salet	20100	plink	11200	spill	22222	
+salet	20100	plink	02200	slimy	22222	
+salet	20100	plink	02202	slick	22222	
+salet	20100	plink	02020	slung	22222	
+salet	20100	plink	02022	slunk	22222	
+salet	01100	corni	00000	amply	21010	album	22222	
+salet	01100	corni	00000	amply	22222	
+salet	01100	corni	00000	amply	10110	plaza	22222	
+salet	01100	corni	00000	amply	11020	qualm	22222	
+salet	01100	corni	00000	amply	20222	apply	22222	
+salet	01100	corni	00000	amply	20010	awful	22222	
+salet	01100	corni	00000	amply	10210	pupal	22222	
+salet	01100	corni	00000	amply	10012	flaky	22222	
+salet	01100	corni	00000	amply	11010	llama	22222	
+salet	01100	corni	00000	amply	20210	alpha	22222	
+salet	01100	corni	10000	black	02222	flack	22222	
+salet	01100	corni	10000	black	22222	
+salet	01100	corni	20000	chalk	20212	clack	22222	
+salet	01100	corni	20000	chalk	22222	
+salet	01100	corni	20000	chalk	20210	clamp	22222	
+salet	01100	corni	01000	offal	11011	aloof	22222	
+salet	01100	corni	01000	offal	22222	
+salet	01100	corni	01000	offal	12012	afoul	22222	
+salet	01100	corni	01000	offal	10011	aloud	22222	
+salet	01100	corni	21000	cloak	22222	
+salet	01100	corni	02000	modal	02011	koala	22222	
+salet	01100	corni	02000	modal	22222	
+salet	01100	corni	02000	modal	12011	loamy	22222	
+salet	01100	corni	02000	modal	02022	loyal	22222	
+salet	01100	corni	12000	favor	21010	focal	22222	
+salet	01100	corni	12000	favor	01110	vocal	22222	
+salet	01100	corni	12000	favor	01010	local	22222	
+salet	01100	corni	00100	drawl	02222	brawl	22222	
+salet	01100	corni	00100	drawl	22222	
+salet	01100	corni	00100	drawl	01201	alarm	22222	
+salet	01100	corni	20100	crawl	22222	
+salet	01100	corni	01100	flora	22222	
+salet	01100	corni	02100	royal	22222	
+salet	01100	corni	00001	audit	10120	plaid	22222	
+salet	01100	corni	00001	audit	10020	flail	22222	
+salet	01100	corni	00001	audit	20020	avail	22222	
+salet	01100	corni	00001	audit	20010	axial	22222	
+salet	01100	corni	00001	audit	12020	quail	22222	
+salet	01100	corni	00200	mural	02222	rural	22222	
+salet	01100	corni	00200	mural	22222	
+salet	01100	corni	10001	iliac	22222	
+salet	01100	corni	20001	claim	22222	
+salet	01100	corni	01001	viola	22222	
+salet	01100	corni	02001	voila	22222	
+salet	01100	corni	02200	moral	22222	
+salet	01100	corni	22200	coral	22222	
+salet	01100	corni	00101	flair	22222	
+salet	01100	corni	00101	flair	01111	rival	22222	
+salet	01100	corni	00101	flair	01221	grail	22222	
+salet	01100	corni	00101	flair	21221	frail	22222	
+salet	01100	corni	00010	annul	22222	
+salet	01100	corni	02010	zonal	22222	
+salet	01100	corni	00002	alibi	22222	
+salet	01100	corni	00201	viral	22222	
+salet	01100	corni	00110	lunar	22222	
+salet	01100	corni	00011	align	12102	plain	22222	
+salet	01100	corni	00011	align	22222	
+salet	01100	corni	00011	align	11101	final	22222	
+salet	01100	corni	00011	align	21101	anvil	22222	
+salet	01100	corni	00020	bifid	00000	plank	22222	
+salet	01100	corni	00020	bifid	20000	blank	22222	
+salet	01100	corni	00020	bifid	00002	gland	22222	
+salet	01100	corni	00020	bifid	20002	bland	22222	
+salet	01100	corni	00020	bifid	00100	flank	22222	
+salet	01100	corni	20020	clank	22220	clang	22222	
+salet	01100	corni	20020	clank	22222	
+salet	01100	corni	01020	along	22222	
+salet	11100	chals	20211	clasp	22222	
+salet	11100	chals	01211	flash	22222	
+salet	11100	chals	20212	class	22222	
+salet	11100	chals	21211	clash	22222	
+salet	11100	chals	00111	usual	22222	
+salet	11100	chals	00221	psalm	22222	
+salet	11100	chals	00211	flask	22222	
+salet	11100	chals	00212	glass	22222	
+salet	21100	chill	00002	snarl	22222	
+salet	21100	chill	00110	slain	22222	
+salet	21100	chill	10020	pride	00000	scaly	22222	
+salet	21100	chill	10020	pride	10000	scalp	22222	
+salet	21100	chill	10020	pride	00010	scald	22222	
+salet	21100	chill	02002	shawl	22222	
+salet	21100	chill	02002	shawl	22102	shoal	22222	
+salet	21100	chill	00022	small	22222	
+salet	21100	chill	00010	slang	22222	
+salet	21100	chill	00102	snail	22222	
+salet	21100	chill	10010	slack	22222	
+salet	21100	chill	01010	slash	22222	
+salet	21100	chill	02022	shall	22222	
+salet	02100	bingy	00000	larva	22222	
+salet	02100	bingy	00000	larva	12000	caulk	22222	
+salet	02100	bingy	00000	larva	12001	papal	22222	
+salet	02100	bingy	00000	larva	12200	carol	22222	
+salet	02100	bingy	01012	gaily	22222	
+salet	02100	bingy	10000	labor	22222	
+salet	02100	bingy	10000	labor	12200	cabal	22222	
+salet	02100	bingy	00002	madly	22222	
+salet	02100	bingy	01000	cavil	22222	
+salet	02100	bingy	20002	badly	22222	
+salet	02100	bingy	01002	daily	22222	
+salet	02100	bingy	00100	naval	22222	
+salet	02100	bingy	00200	canal	22222	
+salet	02100	bingy	20200	banal	22222	
+salet	02100	bingy	00202	lanky	22222	
+salet	02100	bingy	00202	lanky	12202	manly	22222	
+salet	02100	bingy	00020	laugh	22222	
+salet	02100	bingy	00012	gayly	22222	
+salet	12100	basil	22222	
+salet	12100	basil	02201	lasso	22222	
+salet	12100	basil	02202	nasal	22222	
+salet	12100	basil	22202	basal	22222	
+salet	22100	sadly	22222	
+salet	00200	fugly	22022	fully	22222	
+salet	00200	fugly	02010	mulch	22222	
+salet	00200	fugly	00122	golly	22222	
+salet	00200	fugly	02012	pulpy	22222	
+salet	00200	fugly	02012	pulpy	02202	bulky	22222	
+salet	00200	fugly	00110	igloo	22222	
+salet	00200	fugly	02122	gully	22222	
+salet	00200	fugly	02110	gulch	22222	
+salet	00200	fugly	00011	polyp	01210	nylon	22222	
+salet	00200	fugly	00011	polyp	22222	
+salet	00200	fugly	00022	howdy	00002	billy	22222	
+salet	00200	fugly	00022	howdy	02012	dolly	22222	
+salet	00200	fugly	00022	howdy	20002	hilly	22222	
+salet	00200	fugly	00022	howdy	02002	jolly	22222	
+salet	00200	fugly	00022	howdy	22002	holly	22222	
+salet	00200	fugly	00022	howdy	00102	willy	22222	
+salet	00200	fugly	00022	howdy	00012	dilly	22222	
+salet	00200	fugly	20022	folly	22222	
+salet	00200	fugly	20022	folly	20222	filly	22222	
+salet	00200	fugly	00010	colon	22220	color	22222	
+salet	00200	fugly	00010	colon	22222	
+salet	00200	fugly	20010	folio	22222	
+salet	00200	fugly	00012	moldy	22222	
+salet	00200	fugly	00012	moldy	20202	milky	22222	
+salet	00200	fugly	02022	bully	02222	dully	22222	
+salet	00200	fugly	02022	bully	22222	
+salet	00200	fugly	20012	filmy	22222	
+salet	20200	silky	22222	
+salet	20200	silky	20202	sully	22222	
+salet	20200	silky	21200	solid	22222	
+salet	20200	silky	22202	silly	22222	
+salet	20200	silky	20222	sulky	22222	
+salet	01200	allay	22222	
+salet	01200	allay	10200	polka	22222	
+salet	01200	allay	20200	aglow	22222	
+salet	01200	allay	11200	villa	22222	
+salet	01200	allay	00220	molar	02222	polar	22222	
+salet	01200	allay	00220	molar	22222	
+salet	01200	allay	00221	bylaw	22222	
+salet	01200	allay	22200	allow	22222	
+salet	01200	allay	00222	inlay	22222	
+salet	01200	allay	01220	lilac	22222	
+salet	01200	allay	22202	alloy	22222	
+salet	21200	solar	22222	
+salet	02200	rally	02222	dally	22222	
+salet	02200	rally	22222	
+salet	02200	rally	02200	valid	22222	
+salet	02200	rally	12200	valor	22222	
+salet	02200	rally	22200	ralph	22222	
+salet	02200	rally	02202	balmy	22222	
+salet	12200	palsy	22222	
+salet	22200	naval	02101	salvo	22222	
+salet	22200	naval	02011	salsa	22222	
+salet	22200	naval	02001	sally	22222	
+salet	22200	naval	12001	salon	22222	
+salet	22200	naval	02021	salad	22222	
+salet	00010	drone	00021	penny	22222	
+salet	00010	drone	00021	penny	01020	eking	22222	
+salet	00010	drone	00021	penny	01021	eying	22222	
+salet	00010	drone	00021	penny	02020	being	22222	
+salet	00010	drone	10021	fiend	22222	
+salet	00010	drone	00221	ebony	22222	
+salet	00010	drone	00002	quick	00000	femme	22222	
+salet	00010	drone	00002	quick	02000	fugue	22222	
+salet	00010	drone	00002	quick	22000	queue	22222	
+salet	00010	drone	00002	quick	00100	pixie	22222	
+salet	00010	drone	00002	quick	01100	imbue	22222	
+salet	00010	drone	00002	quick	11100	pique	22222	
+salet	00010	drone	00002	quick	00210	chime	22222	
+salet	00010	drone	00002	quick	02220	juice	22222	
+salet	00010	drone	00002	quick	00120	piece	22222	
+salet	00010	drone	10002	whiff	00000	budge	02222	judge	22222	
+salet	00010	drone	10002	whiff	00000	budge	22222	
+salet	00010	drone	10002	whiff	20000	wedge	22222	
+salet	00010	drone	10002	whiff	00200	guide	22222	
+salet	00010	drone	10002	whiff	01000	hedge	22222	
+salet	00010	drone	10002	whiff	02200	chide	22222	
+salet	00010	drone	10002	whiff	00100	midge	22222	
+salet	00010	drone	10002	whiff	00010	fudge	22222	
+salet	00010	drone	20002	deuce	22222	
+salet	00010	drone	01002	reive	12102	eerie	22222	
+salet	00010	drone	01002	reive	10002	purge	22222	
+salet	00010	drone	01002	reive	20002	rhyme	22222	
+salet	00010	drone	01002	reive	12012	verge	22222	
+salet	00010	drone	01002	reive	22012	revue	22222	
+salet	00010	drone	01002	reive	11002	where	22222	
+salet	00010	drone	01002	reive	12002	merge	22222	
+salet	00010	drone	01002	reive	10022	curve	22222	
+salet	00010	drone	01002	reive	10102	fibre	22222	
+salet	00010	drone	01002	reive	12022	verve	22222	
+salet	00010	drone	11002	ridge	22222	
+salet	00010	drone	21002	dirge	22222	
+salet	00010	drone	02002	campi	00001	bribe	22222	
+salet	00010	drone	02002	campi	00111	prime	22222	
+salet	00010	drone	02002	campi	00021	gripe	22222	
+salet	00010	drone	02002	campi	20020	crepe	22222	
+salet	00010	drone	02002	campi	00101	grime	22222	
+salet	00010	drone	02002	campi	20100	creme	22222	
+salet	00010	drone	02002	campi	20101	crime	22222	
+salet	00010	drone	02002	campi	00011	prize	22222	
+salet	00010	drone	02002	campi	10011	price	22222	
+salet	00010	drone	12002	pride	22022	prude	22222	
+salet	00010	drone	12002	pride	02222	bride	22222	
+salet	00010	drone	12002	pride	22222	
+salet	00010	drone	12002	pride	02022	crude	22222	
+salet	00010	drone	22002	drive	22222	
+salet	00010	drone	00102	voice	12102	movie	22222	
+salet	00010	drone	00102	voice	22222	
+salet	00010	drone	00102	voice	02012	coupe	22222	
+salet	00010	drone	00102	voice	02002	gouge	22222	
+salet	00010	drone	00102	voice	22002	vogue	22222	
+salet	00010	drone	10102	oxide	22222	
+salet	00010	drone	20102	dodge	22222	
+salet	00010	drone	01102	forge	02222	gorge	22222	
+salet	00010	drone	01102	forge	22222	
+salet	00010	drone	01102	forge	02122	rouge	22222	
+salet	00010	drone	01102	forge	22202	force	22222	
+salet	00010	drone	01102	forge	02112	rogue	22222	
+salet	00010	drone	01102	forge	01102	ombre	22222	
+salet	00010	drone	11102	horde	22222	
+salet	00010	drone	00202	flick	00000	booze	22222	
+salet	00010	drone	00202	flick	00001	evoke	22222	
+salet	00010	drone	00202	flick	00100	biome	22222	
+salet	00010	drone	00202	flick	00011	choke	22222	
+salet	00010	drone	20202	diode	22222	
+salet	00010	drone	01202	chore	22222	
+salet	00010	drone	02202	prove	02222	grove	22222	
+salet	00010	drone	02202	prove	22222	
+salet	00010	drone	02202	prove	02202	broke	22222	
+salet	00010	drone	02202	prove	02202	broke	02202	froze	22222	
+salet	00010	drone	02202	prove	12202	grope	22222	
+salet	00010	drone	02202	prove	22202	probe	22222	
+salet	00010	drone	12202	erode	22222	
+salet	00010	drone	22202	drove	22222	
+salet	00010	drone	00012	winch	22220	wince	22222	
+salet	00010	drone	00012	winch	00200	venue	22222	
+salet	00010	drone	00012	winch	01200	genie	22222	
+salet	00010	drone	00012	winch	02120	niece	22222	
+salet	00010	drone	00012	winch	02200	binge	22222	
+salet	00010	drone	00012	winch	00220	pence	02222	fence	22222	
+salet	00010	drone	00012	winch	00220	pence	22222	
+salet	00010	drone	00012	winch	02201	hinge	22222	
+salet	00010	drone	00012	winch	00221	hence	22222	
+salet	00010	drone	00012	winch	02111	niche	22222	
+salet	00010	drone	00012	winch	01100	knife	22222	
+salet	00010	drone	00012	winch	02220	mince	22222	
+salet	00010	drone	10012	undue	22222	
+salet	00010	drone	10012	undue	11202	nudge	22222	
+salet	00010	drone	20012	dunce	22222	
+salet	00010	drone	01012	genre	22222	
+salet	00010	drone	01012	genre	02112	nerve	22222	
+salet	00010	drone	00112	ounce	22222	
+salet	00010	drone	00212	gnome	22222	
+salet	00010	drone	00001	beech	22222	
+salet	00010	drone	00001	beech	01000	equip	22222	
+salet	00010	drone	00001	beech	02200	geeky	22222	
+salet	00010	drone	00001	beech	02002	weigh	22222	
+salet	00010	drone	00001	beech	00221	check	22222	
+salet	00010	drone	00001	beech	22200	beefy	22222	
+salet	00010	drone	10001	edify	22222	
+salet	00010	drone	10001	edify	11002	weedy	22222	
+salet	00010	drone	10001	edify	11100	medic	22222	
+salet	00010	drone	20001	debug	22222	
+salet	00010	drone	01001	furry	00200	perch	22222	
+salet	00010	drone	01001	furry	00202	perky	02222	jerky	22222	
+salet	00010	drone	01001	furry	00202	perky	22222	
+salet	00010	drone	01001	furry	00202	perky	02202	mercy	22222	
+salet	00010	drone	01001	furry	01110	recur	22222	
+salet	00010	drone	01001	furry	00022	every	22222	
+salet	00010	drone	01001	furry	20022	fiery	22222	
+salet	00010	drone	01001	furry	00222	merry	02222	berry	22222	
+salet	00010	drone	01001	furry	00222	merry	22222	
+salet	00010	drone	01001	furry	20222	ferry	22222	
+salet	00010	drone	01001	furry	21100	femur	22222	
+salet	00010	drone	01001	furry	02022	query	22222	
+salet	00010	drone	11001	weird	02011	reedy	22222	
+salet	00010	drone	11001	weird	22222	
+salet	00010	drone	21001	derby	22100	demur	22222	
+salet	00010	drone	21001	derby	22222	
+salet	00010	drone	21001	derby	22102	decry	22222	
+salet	00010	drone	02001	wreck	22222	
+salet	00010	drone	00022	penne	22222	
+salet	00010	drone	00022	penne	00022	whine	22222	
+salet	00010	drone	00101	gecko	22222	
+salet	00010	drone	20101	decoy	22222	
+salet	00010	drone	02022	brine	02222	urine	22222	
+salet	00010	drone	02022	brine	22222	
+salet	00010	drone	02022	brine	02022	prune	22222	
+salet	00010	drone	21101	decor	22222	
+salet	00010	drone	02101	error	22222	
+salet	00010	drone	12101	credo	22222	
+salet	00010	drone	00122	opine	22222	
+salet	00010	drone	00122	opine	20222	ovine	22222	
+salet	00010	drone	00201	epoch	22222	
+salet	00010	drone	00201	epoch	22200	epoxy	22222	
+salet	00010	drone	01122	borne	22222	
+salet	00010	drone	00222	ozone	22222	
+salet	00010	drone	00222	ozone	00222	phone	22222	
+salet	00010	drone	00011	begun	02101	neigh	22222	
+salet	00010	drone	00011	begun	02102	feign	22222	
+salet	00010	drone	00011	begun	22222	
+salet	00010	drone	00011	begun	01001	enemy	22222	
+salet	00010	drone	00011	begun	02001	wench	22222	
+salet	00010	drone	00011	begun	22001	bench	22222	
+salet	00010	drone	00011	begun	01021	ennui	22222	
+salet	00010	drone	00011	begun	22202	begin	22222	
+salet	00010	drone	10011	needy	22222	
+salet	00010	drone	20011	denim	22222	
+salet	00010	drone	20011	denim	22110	deign	22222	
+salet	00010	drone	01011	reign	22222	
+salet	00010	drone	01011	reign	22002	rerun	22222	
+salet	00010	drone	11011	nerdy	22222	
+salet	00010	drone	02222	prone	02222	crone	22222	
+salet	00010	drone	02222	prone	22222	
+salet	00010	drone	22222	
+salet	00010	drone	00111	enjoy	22022	envoy	22222	
+salet	00010	drone	00111	enjoy	22222	
+salet	00010	drone	00111	enjoy	11020	venom	22222	
+salet	00010	drone	10111	endow	22222	
+salet	00010	drone	20111	demon	22222	
+salet	00010	drone	01111	heron	22222	
+salet	10010	rhone	00002	issue	11012	guise	22222	
+salet	10010	rhone	00002	issue	22222	
+salet	10010	rhone	00002	issue	01002	geese	22222	
+salet	10010	rhone	10002	purse	02222	curse	22222	
+salet	10010	rhone	10002	purse	22222	
+salet	10010	rhone	10002	purse	00222	verse	22222	
+salet	10010	rhone	20002	reuse	22222	
+salet	10010	rhone	00112	noise	22222	
+salet	10010	rhone	00102	poise	22022	posse	22222	
+salet	10010	rhone	00102	poise	22222	
+salet	10010	rhone	00102	poise	01022	obese	22222	
+salet	10010	rhone	00102	poise	02022	mouse	22222	
+salet	10010	rhone	00102	poise	12022	copse	22222	
+salet	10010	rhone	10102	worse	22222	
+salet	10010	rhone	20102	rouse	22222	
+salet	10010	rhone	20011	resin	22222	
+salet	10010	rhone	01102	house	22222	
+salet	10010	rhone	11102	horse	22222	
+salet	10010	rhone	00212	noose	22222	
+salet	10010	rhone	00001	pesky	22222	
+salet	10010	rhone	00001	pesky	01100	guess	22222	
+salet	10010	rhone	10001	pride	02011	dress	22222	
+salet	10010	rhone	10001	pride	02001	cress	22222	
+salet	10010	rhone	10001	pride	22001	press	22222	
+salet	10010	rhone	20001	rebus	22222	
+salet	10010	rhone	00202	goose	02222	moose	22222	
+salet	10010	rhone	00202	goose	22222	
+salet	10010	rhone	11001	fresh	22222	
+salet	10010	rhone	10202	prose	22222	
+salet	10010	rhone	02001	chess	22222	
+salet	10010	rhone	00101	poesy	22222	
+salet	10010	rhone	02202	chose	02222	whose	22222	
+salet	10010	rhone	02202	chose	22222	
+salet	10010	rhone	10101	verso	22222	
+salet	10010	rhone	00012	ensue	22222	
+salet	10010	rhone	00012	ensue	11102	dense	22222	
+salet	10010	rhone	10012	nurse	22222	
+salet	10010	rhone	20012	rinse	22222	
+salet	20010	prink	00000	seedy	22100	segue	22222	
+salet	20010	prink	00000	seedy	22222	
+salet	20010	prink	00000	seedy	21000	shove	22222	
+salet	20010	prink	10000	scope	22222	
+salet	20010	prink	01000	lurch	00200	serve	22222	
+salet	20010	prink	01000	lurch	00110	score	22222	
+salet	20010	prink	01000	lurch	01200	serum	22222	
+salet	20010	prink	01000	lurch	02200	surge	22222	
+salet	20010	prink	01000	lurch	00100	swore	22222	
+salet	20010	prink	01000	lurch	00101	shore	22222	
+salet	20010	prink	10002	speck	22222	
+salet	20010	prink	11000	spore	22222	
+salet	20010	prink	11000	spore	22021	sperm	22222	
+salet	20010	prink	00110	singe	22222	
+salet	20010	prink	00110	singe	22202	since	22222	
+salet	20010	prink	10201	spike	22222	
+salet	20010	prink	00220	swine	22222	
+salet	20010	prink	00220	swine	20222	shine	22222	
+salet	20010	prink	00100	siege	22222	
+salet	20010	prink	00100	siege	22202	sieve	22222	
+salet	20010	prink	10220	spine	22222	
+salet	20010	prink	00102	sheik	22222	
+salet	20010	prink	01100	serif	22222	
+salet	20010	prink	00210	snide	22222	
+salet	20010	prink	10210	snipe	22222	
+salet	20010	prink	00001	smoke	22222	
+salet	20010	prink	00200	seize	22222	
+salet	20010	prink	10001	spoke	22222	
+salet	20010	prink	10200	spice	22222	
+salet	20010	prink	01200	shire	22222	
+salet	20010	prink	11200	spire	22222	
+salet	20010	prink	00020	scone	22022	scene	22222	
+salet	20010	prink	00020	scone	22222	
+salet	20010	prink	00020	scone	20222	shone	22222	
+salet	20010	prink	10020	spend	22222	
+salet	20010	prink	00010	sense	22222	
+salet	20010	prink	01010	snore	22222	
+salet	01010	beard	01211	drake	22222	
+salet	01010	beard	01211	drake	12202	grade	22222	
+salet	01010	beard	01211	drake	22202	drape	22222	
+salet	01010	beard	01120	azure	22222	
+salet	01010	beard	01120	azure	10021	opera	22222	
+salet	01010	beard	01120	azure	20022	afire	22222	
+salet	01010	beard	02211	ready	22222	
+salet	01010	beard	12120	zebra	22222	
+salet	01010	beard	01112	dread	22222	
+salet	01010	beard	01220	aware	22222	
+salet	01010	beard	21112	bread	22222	
+salet	01010	beard	01100	enema	10001	awoke	22222	
+salet	01010	beard	01100	enema	22222	
+salet	01010	beard	01100	enema	00201	cheap	22222	
+salet	01010	beard	01100	enema	01201	ocean	22222	
+salet	01010	beard	01100	enema	01202	hyena	22222	
+salet	01010	beard	01100	enema	12021	anime	22222	
+salet	01010	beard	01100	enema	00212	omega	22222	
+salet	01010	beard	11100	above	22222	
+salet	01010	beard	02220	yearn	22222	
+salet	01010	beard	02220	yearn	02220	rearm	22222	
+salet	01010	beard	02220	yearn	12220	weary	22222	
+salet	01010	beard	02100	pecan	22222	
+salet	01010	beard	02100	pecan	02210	mecca	22222	
+salet	01010	beard	02100	pecan	02022	vegan	22222	
+salet	01010	beard	12100	kebab	22222	
+salet	01010	beard	22100	began	22222	
+salet	01010	beard	01121	adore	22222	
+salet	01010	beard	01200	aking	10120	inane	22222	
+salet	01010	beard	01200	aking	10000	chafe	22222	
+salet	01010	beard	01200	aking	20000	amaze	22222	
+salet	01010	beard	01200	aking	20001	agape	22222	
+salet	01010	beard	01200	aking	11000	quake	22222	
+salet	01010	beard	01200	aking	21000	awake	22222	
+salet	01010	beard	01200	aking	10101	image	22222	
+salet	01010	beard	01200	aking	11010	knave	22222	
+salet	01010	beard	02200	weave	02222	heave	22222	
+salet	01010	beard	02200	weave	22222	
+salet	01010	beard	02200	weave	02200	peach	22222	
+salet	01010	beard	02200	weave	02202	peace	22222	
+salet	01010	beard	02200	weave	02220	heavy	22222	
+salet	01010	beard	22200	beach	22222	
+salet	01010	beard	01101	anode	22222	
+salet	01010	beard	11101	adobe	21012	abide	22222	
+salet	01010	beard	11101	adobe	22222	
+salet	01010	beard	11101	adobe	21212	abode	22222	
+salet	01010	beard	02101	decay	12010	media	22222	
+salet	01010	beard	02101	decay	22222	
+salet	01010	beard	01201	evade	22222	
+salet	01010	beard	01201	evade	00212	adage	22222	
+salet	01010	beard	01110	macaw	10120	cream	22222	
+salet	01010	beard	01110	macaw	01000	argue	22222	
+salet	01010	beard	01110	macaw	00020	freak	22222	
+salet	01010	beard	01110	macaw	00021	wreak	22222	
+salet	01010	beard	01110	macaw	01010	arena	22222	
+salet	01010	beard	01110	macaw	00120	creak	22222	
+salet	01010	beard	21110	break	22222	
+salet	01010	beard	02201	heady	22222	
+salet	01010	beard	02110	repay	22222	
+salet	01010	beard	02110	repay	22120	recap	22222	
+salet	01010	beard	12110	rebar	22222	
+salet	01010	beard	12110	rebar	22120	rehab	22222	
+salet	01010	beard	22201	beady	22222	
+salet	01010	beard	01102	ahead	22222	
+salet	01010	beard	01102	ahead	20202	amend	22222	
+salet	01010	beard	01102	ahead	00222	knead	22222	
+salet	01010	beard	01210	cezve	00002	frame	22222	
+salet	01010	beard	01210	cezve	00002	frame	02202	grape	22222	
+salet	01010	beard	01210	cezve	10002	grace	22222	
+salet	01010	beard	01210	cezve	20002	crane	22222	
+salet	01010	beard	01210	cezve	00022	grave	22222	
+salet	01010	beard	01210	cezve	20022	crave	22222	
+salet	01010	beard	01210	cezve	00102	graze	22222	
+salet	01010	beard	01210	cezve	20102	craze	22222	
+salet	01010	beard	02222	heard	22222	
+salet	01010	beard	21210	croak	02010	brave	22222	
+salet	01010	beard	21210	croak	12010	brace	22222	
+salet	01010	beard	21210	croak	02011	brake	22222	
+salet	01010	beard	22222	
+salet	01010	beard	02210	reach	22222	
+salet	01010	beard	01111	dream	22222	
+salet	01010	beard	02111	cedar	22222	
+salet	01010	beard	12111	debar	22222	
+salet	11010	brass	10120	abuse	22222	
+salet	11010	brass	00110	aside	22222	
+salet	11010	brass	02120	arise	22022	arose	22222	
+salet	11010	brass	02120	arise	22222	
+salet	11010	brass	00111	essay	22222	
+salet	11010	brass	00220	phase	02222	chase	22222	
+salet	11010	brass	00220	phase	22222	
+salet	11010	brass	00220	phase	00222	cease	22222	
+salet	11010	brass	10220	abase	22222	
+salet	11010	brass	00210	usage	22222	
+salet	11010	brass	02220	erase	22222	
+salet	11010	brass	00120	amuse	22222	
+salet	21010	hepar	01120	speak	22222	
+salet	21010	hepar	01122	spear	22222	
+salet	21010	hepar	01110	spade	22222	
+salet	21010	hepar	01110	spade	22202	space	22222	
+salet	21010	hepar	11110	shape	22222	
+salet	21010	hepar	01011	scare	22222	
+salet	21010	hepar	01011	scare	20222	snare	22222	
+salet	21010	hepar	11011	share	22222	
+salet	21010	hepar	02210	sepia	22222	
+salet	21010	hepar	01111	spare	22222	
+salet	21010	hepar	01020	sneak	22222	
+salet	21010	hepar	01022	smear	22222	
+salet	21010	hepar	01022	smear	20222	swear	22222	
+salet	21010	hepar	02020	sedan	22222	
+salet	21010	hepar	11022	shear	22222	
+salet	21010	hepar	01010	suave	22222	
+salet	21010	hepar	01010	suave	20202	snake	22222	
+salet	21010	hepar	11010	vodka	00001	shame	22222	
+salet	21010	hepar	11010	vodka	10001	shave	22222	
+salet	21010	hepar	11010	vodka	00021	shake	22222	
+salet	21010	hepar	11010	vodka	00101	shade	22222	
+salet	02010	cumin	00000	badge	22022	barge	22222	
+salet	02010	cumin	00000	badge	22222	
+salet	02010	cumin	00000	badge	02012	gaffe	22222	
+salet	02010	cumin	10000	farce	22222	
+salet	02010	cumin	20000	carve	22222	
+salet	02010	cumin	20000	carve	22002	cache	22222	
+salet	02010	cumin	01000	gauze	12102	vague	22222	
+salet	02010	cumin	01000	gauze	22222	
+salet	02010	cumin	01000	gauze	22202	gauge	22222	
+salet	02010	cumin	00110	maize	22222	
+salet	02010	cumin	00100	maybe	22222	
+salet	02010	cumin	01100	mauve	22222	
+salet	02010	cumin	00011	naive	22222	
+salet	02010	cumin	00001	range	22222	
+salet	02010	cumin	10001	dance	22222	
+salet	02010	cumin	20001	canoe	22222	
+salet	02010	cumin	00101	mange	22222	
+salet	02010	cumin	00010	waive	22222	
+salet	12010	humph	00000	raise	22222	
+salet	12010	humph	01000	cause	22222	
+salet	12010	humph	00100	masse	22222	
+salet	12010	humph	00010	parse	22222	
+salet	12010	humph	01010	pause	22222	
+salet	22010	sauce	22222	
+salet	00110	doing	00000	clump	01000	leery	22222	
+salet	00110	doing	00000	clump	11000	leech	22222	
+salet	00110	doing	00000	clump	01001	reply	22222	
+salet	00110	doing	00000	clump	21000	cycle	22222	
+salet	00110	doing	00000	clump	01002	whelp	22222	
+salet	00110	doing	00000	clump	12000	fleck	22222	
+salet	00110	doing	00000	clump	01110	lemur	22222	
+salet	00110	doing	00000	clump	22000	clerk	22222	
+salet	00110	doing	00000	clump	02200	fluke	22222	
+salet	00110	doing	00000	clump	01100	quell	22222	
+salet	00110	doing	00000	clump	02220	flume	22222	
+salet	00110	doing	00000	clump	02221	plume	22222	
+salet	00110	doing	10000	elude	22222	
+salet	00110	doing	20000	dwell	22222	
+salet	00110	doing	01000	elbow	11011	whole	22222	
+salet	00110	doing	01000	elbow	12010	clove	22222	
+salet	00110	doing	01000	elbow	22222	
+salet	00110	doing	01000	elbow	22010	elope	22222	
+salet	00110	doing	01000	elbow	12110	bloke	22222	
+salet	00110	doing	02000	boule	22222	
+salet	00110	doing	00100	rifle	11011	peril	22222	
+salet	00110	doing	00100	rifle	22222	
+salet	00110	doing	00100	rifle	02022	bible	22222	
+salet	00110	doing	10100	dwarf	10000	yield	22222	
+salet	00110	doing	10100	dwarf	10001	field	22222	
+salet	00110	doing	10100	dwarf	11000	wield	22222	
+salet	00110	doing	20100	devil	22222	
+salet	00110	doing	00001	bugle	22222	
+salet	00110	doing	00001	bugle	00111	elegy	22222	
+salet	00110	doing	00001	bugle	00211	leggy	22222	
+salet	00110	doing	00200	exile	22222	
+salet	00110	doing	00200	exile	00222	while	22222	
+salet	00110	doing	10001	ledge	22222	
+salet	00110	doing	10200	elide	22222	
+salet	00110	doing	01001	glove	22222	
+salet	00110	doing	01001	glove	22202	globe	22222	
+salet	00110	doing	01200	olive	22222	
+salet	00110	doing	12001	lodge	22222	
+salet	00110	doing	00101	liege	22222	
+salet	00110	doing	00010	uncle	22222	
+salet	00110	doing	00010	uncle	01021	newly	22222	
+salet	00110	doing	01010	lemon	22222	
+salet	00110	doing	02010	noble	22222	
+salet	00110	doing	00201	guile	22222	
+salet	00110	doing	00110	elfin	22222	
+salet	00110	doing	10201	glide	22222	
+salet	00110	doing	00011	lunge	22222	
+salet	00110	doing	10020	blend	22222	
+salet	00110	doing	01020	clone	22222	
+salet	10110	blush	01020	loose	22222	
+salet	10110	blush	01220	louse	22222	
+salet	10110	blush	02020	close	22222	
+salet	10110	blush	22020	bless	22222	
+salet	10110	blush	02022	flesh	22222	
+salet	20110	chime	00001	spell	22222	
+salet	20110	chime	00001	spell	20222	swell	22222	
+salet	20110	chime	00002	slope	22222	
+salet	20110	chime	00202	slide	22222	
+salet	20110	chime	10202	slice	22222	
+salet	20110	chime	02001	shell	22220	shelf	22222	
+salet	20110	chime	02001	shell	22222	
+salet	20110	chime	00222	slime	22222	
+salet	20110	chime	00011	smell	22222	
+salet	20110	chime	00212	smile	22222	
+salet	01110	gnarl	02101	ankle	22222	
+salet	01110	gnarl	12101	angle	22222	
+salet	01110	gnarl	00201	fehme	02010	mealy	22222	
+salet	01110	gnarl	00201	fehme	00002	blaze	22222	
+salet	01110	gnarl	00201	fehme	00002	blaze	02202	place	22222	
+salet	01110	gnarl	00201	fehme	00002	blaze	22202	blade	22222	
+salet	01110	gnarl	00201	fehme	20002	flake	22222	
+salet	01110	gnarl	00201	fehme	02000	leaky	22222	
+salet	01110	gnarl	00201	fehme	12000	leafy	22222	
+salet	01110	gnarl	00201	fehme	02002	leave	22222	
+salet	01110	gnarl	00201	fehme	00022	blame	22222	
+salet	01110	gnarl	00201	fehme	20022	flame	22222	
+salet	01110	gnarl	00201	fehme	00102	whale	22222	
+salet	01110	gnarl	00201	fehme	02100	leach	22222	
+salet	01110	gnarl	20201	glade	22222	
+salet	01110	gnarl	20201	glade	22202	glaze	22222	
+salet	01110	gnarl	01201	plane	22222	
+salet	01110	gnarl	00112	feral	22222	
+salet	01110	gnarl	10112	regal	22222	
+salet	01110	gnarl	01112	renal	22222	
+salet	01110	gnarl	00222	pearl	22222	
+salet	01110	gnarl	00102	medal	02222	pedal	22222	
+salet	01110	gnarl	00102	medal	22222	
+salet	01110	gnarl	00102	medal	01122	ideal	22222	
+salet	01110	gnarl	00102	medal	02122	decal	22222	
+salet	01110	gnarl	00102	medal	01022	equal	22222	
+salet	01110	gnarl	00102	medal	02022	fecal	22222	
+salet	01110	gnarl	10102	legal	22222	
+salet	01110	gnarl	01102	penal	22222	
+salet	01110	gnarl	00202	email	22222	
+salet	01110	gnarl	00111	clear	22222	
+salet	01110	gnarl	00221	blare	02222	flare	22222	
+salet	01110	gnarl	00221	blare	22222	
+salet	01110	gnarl	00101	spike	00002	amble	22222	
+salet	01110	gnarl	00101	spike	01001	plead	22222	
+salet	01110	gnarl	00101	spike	00202	alive	22222	
+salet	01110	gnarl	00101	spike	01002	ample	22222	
+salet	01110	gnarl	00101	spike	02002	apple	22222	
+salet	01110	gnarl	00101	spike	00222	alike	22222	
+salet	01110	gnarl	00101	spike	00011	bleak	22222	
+salet	01110	gnarl	10101	algae	21102	agile	22222	
+salet	01110	gnarl	10101	algae	22222	
+salet	01110	gnarl	20221	glare	22222	
+salet	01110	gnarl	20101	gleam	22222	
+salet	01110	gnarl	01221	learn	22222	
+salet	01110	gnarl	01101	alone	22222	
+salet	01110	gnarl	01101	alone	12011	clean	22222	
+salet	01110	gnarl	00211	realm	22222	
+salet	01110	gnarl	21101	glean	22222	
+salet	11110	leash	22220	lease	22222	
+salet	11110	leash	22222	
+salet	11110	leash	11110	aisle	22222	
+salet	21110	shale	20212	slave	22222	
+salet	21110	shale	22222	
+salet	21110	shale	20222	scale	22222	
+salet	02110	creme	00002	fable	22222	
+salet	02110	creme	00002	fable	02022	ladle	22222	
+salet	02110	creme	10002	lance	22222	
+salet	02110	creme	20002	cable	22222	
+salet	02110	creme	01002	large	22222	
+salet	02110	creme	00102	eagle	22222	
+salet	02110	creme	01100	early	22222	
+salet	02110	creme	00012	maple	22222	
+salet	12110	lapse	22222	
+salet	00210	himbo	00000	delve	22222	
+salet	00210	himbo	00000	delve	02200	jelly	22222	
+salet	00210	himbo	10000	welch	22222	
+salet	00210	himbo	02010	bilge	22222	
+salet	00210	himbo	00002	cello	22222	
+salet	00210	himbo	01000	relic	22222	
+salet	00210	himbo	20002	hello	22222	
+salet	00210	himbo	21000	helix	22222	
+salet	00210	himbo	00011	below	22222	
+salet	00210	himbo	00001	felon	22222	
+salet	00210	himbo	00101	melon	22222	
+salet	00210	himbo	00010	belly	22220	belle	22222	
+salet	00210	himbo	00010	belly	22222	
+salet	00210	himbo	00010	belly	21200	bulge	22222	
+salet	00210	himbo	10010	belch	22222	
+salet	00210	himbo	01010	belie	22222	
+salet	10210	welsh	22222	
+salet	10210	welsh	01220	pulse	22222	
+salet	20210	solve	22222	
+salet	01210	relax	22220	relay	22222	
+salet	01210	relax	22222	
+salet	01210	relax	02210	fella	22222	
+salet	01210	relax	02220	delay	22222	
+salet	02210	valve	02222	halve	22222	
+salet	02210	valve	22222	
+salet	02210	valve	22202	value	22222	
+salet	12210	false	22222	
+salet	22210	salve	22222	
+salet	00020	rownd	00000	cheek	10120	emcee	22222	
+salet	00020	rownd	00000	cheek	22222	
+salet	00020	rownd	00000	cheek	10020	bicep	22222	
+salet	00020	rownd	00000	cheek	22020	chief	22222	
+salet	00020	rownd	10000	pubic	00000	freer	22222	
+salet	00020	rownd	10000	pubic	00000	freer	20122	fever	22222	
+salet	00020	rownd	10000	pubic	10000	hyper	22222	
+salet	00020	rownd	10000	pubic	00201	cyber	22222	
+salet	00020	rownd	10000	pubic	11000	upper	22222	
+salet	00020	rownd	10000	pubic	00110	brief	22222	
+salet	00020	rownd	10000	pubic	02000	queer	22222	
+salet	00020	rownd	10000	pubic	22000	puree	22220	purer	22222	
+salet	00020	rownd	10000	pubic	22000	puree	22222	
+salet	00020	rownd	10000	pubic	00011	crier	22222	
+salet	00020	rownd	10000	pubic	00210	fiber	22222	
+salet	00020	rownd	10000	pubic	02100	buyer	22222	
+salet	00020	rownd	10000	pubic	00001	creek	22222	
+salet	00020	rownd	10000	pubic	00001	creek	21220	cheer	22222	
+salet	00020	rownd	10000	pubic	00200	ember	22222	
+salet	00020	rownd	10000	pubic	10001	creep	22222	
+salet	00020	rownd	10000	pubic	00010	fixer	22222	
+salet	00020	rownd	10000	pubic	00010	fixer	11021	grief	22222	
+salet	00020	rownd	10000	pubic	00010	fixer	02022	giver	22222	
+salet	00020	rownd	10000	pubic	10010	viper	22222	
+salet	00020	rownd	10000	pubic	20010	piper	22222	
+salet	00020	rownd	20000	rupee	22222	
+salet	00020	rownd	20000	rupee	20020	river	22222	
+salet	00020	rownd	20000	rupee	20021	refer	22222	
+salet	00020	rownd	20000	rupee	20220	riper	22222	
+salet	00020	rownd	11000	offer	22222	
+salet	00020	rownd	02000	covey	22222	
+salet	00020	rownd	02000	covey	02022	gooey	22222	
+salet	00020	rownd	12000	chevy	00110	mover	22222	
+salet	00020	rownd	12000	chevy	20110	cover	22222	
+salet	00020	rownd	12000	chevy	01110	hover	22222	
+salet	00020	rownd	12000	chevy	00100	poker	02222	joker	22222	
+salet	00020	rownd	12000	chevy	00100	poker	22222	
+salet	00020	rownd	12000	chevy	00100	poker	02022	boxer	22222	
+salet	00020	rownd	12000	chevy	00101	foyer	22222	
+salet	00020	rownd	12000	chevy	20100	corer	22222	
+salet	00020	rownd	12000	chevy	01100	homer	22222	
+salet	00020	rownd	22000	rover	22022	roger	22222	
+salet	00020	rownd	22000	rover	22222	
+salet	00020	rownd	00212	unwed	22222	
+salet	00020	rownd	12100	wooer	22222	
+salet	00020	rownd	00001	dicey	22222	
+salet	00020	rownd	10001	drier	22022	dryer	22222	
+salet	00020	rownd	10001	drier	10122	cider	22222	
+salet	00020	rownd	10001	drier	22222	
+salet	00020	rownd	10001	drier	20122	diver	22222	
+salet	00020	rownd	10001	drier	10022	udder	22222	
+salet	00020	rownd	10001	drier	20022	defer	22222	
+salet	00020	rownd	10200	fewer	22222	
+salet	00020	rownd	20001	ruder	22222	
+salet	00020	rownd	20001	ruder	20222	rider	22222	
+salet	00020	rownd	01001	video	22222	
+salet	00020	rownd	11001	order	22222	
+salet	00020	rownd	11001	order	20222	odder	22222	
+salet	00020	rownd	02001	modem	22222	
+salet	00020	rownd	02001	modem	02120	dopey	22222	
+salet	00020	rownd	12200	humph	00000	cower	22222	
+salet	00020	rownd	12200	humph	00100	mower	22222	
+salet	00020	rownd	12200	humph	00010	power	22222	
+salet	00020	rownd	22001	rodeo	22222	
+salet	00020	rownd	22200	rower	22222	
+salet	00020	rownd	00010	lying	02010	hymen	22222	
+salet	00020	rownd	00010	lying	00110	vixen	22222	
+salet	00020	rownd	00010	lying	00111	given	22222	
+salet	00020	rownd	00010	lying	01110	piney	22222	
+salet	00020	rownd	00010	lying	00010	queen	22222	
+salet	00020	rownd	10101	wider	22222	
+salet	00020	rownd	10010	finer	00121	preen	02222	green	22222	
+salet	00020	rownd	10010	finer	00121	preen	22222	
+salet	00020	rownd	10010	finer	02222	miner	22222	
+salet	00020	rownd	10010	finer	00122	never	22222	
+salet	00020	rownd	10010	finer	22222	
+salet	00020	rownd	10010	finer	11122	infer	22222	
+salet	00020	rownd	10010	finer	02122	nicer	22222	
+salet	00020	rownd	10010	finer	01222	inner	22222	
+salet	00020	rownd	20010	ripen	22222	
+salet	00020	rownd	02010	bench	01200	money	22222	
+salet	00020	rownd	02010	bench	01201	honey	22222	
+salet	00020	rownd	02010	bench	21200	boney	22222	
+salet	00020	rownd	02010	bench	01110	coven	22222	
+salet	00020	rownd	12010	goner	22222	
+salet	00020	rownd	00002	embed	22222	
+salet	00020	rownd	10002	flick	00000	breed	02222	greed	22222	
+salet	00020	rownd	10002	flick	00000	breed	22222	
+salet	00020	rownd	10002	flick	20000	freed	22222	
+salet	00020	rownd	10002	flick	00200	pried	02222	dried	22222	
+salet	00020	rownd	10002	flick	00200	pried	22222	
+salet	00020	rownd	10002	flick	20200	fried	22222	
+salet	00020	rownd	10002	flick	00010	creed	22222	
+salet	00020	rownd	10002	flick	00210	cried	22222	
+salet	00020	rownd	20110	renew	22222	
+salet	00020	rownd	11110	owner	22222	
+salet	00020	rownd	02110	karma	00000	woven	22222	
+salet	00020	rownd	02110	karma	10000	woken	22222	
+salet	00020	rownd	02110	karma	00010	women	22222	
+salet	00020	rownd	00011	index	22222	
+salet	00020	rownd	10011	diner	10122	under	22222	
+salet	00020	rownd	10011	diner	22222	
+salet	00020	rownd	10210	newer	22222	
+salet	00020	rownd	02011	dozen	22222	
+salet	00020	rownd	00111	widen	22222	
+salet	00020	rownd	00012	unfed	22222	
+salet	00020	rownd	00012	unfed	02022	kneed	22222	
+salet	10020	rumor	20000	risen	22222	
+salet	10020	rumor	00002	wiser	22222	
+salet	10020	rumor	20002	riser	22222	
+salet	10020	rumor	01002	usher	22222	
+salet	10020	rumor	02000	bused	22222	
+salet	10020	rumor	00010	nosey	22222	
+salet	10020	rumor	00102	miser	22222	
+salet	10020	rumor	00012	poser	22222	
+salet	20020	hewer	01120	sweep	22222	
+salet	20020	hewer	00021	siren	22222	
+salet	20020	hewer	01021	spree	22222	
+salet	20020	hewer	01021	spree	20222	scree	22222	
+salet	20020	hewer	00222	sower	22222	
+salet	20020	hewer	00121	screw	22222	
+salet	20020	hewer	02222	sewer	22222	
+salet	20020	hewer	10121	shrew	22222	
+salet	20020	hewer	00020	spied	22222	
+salet	20020	hewer	10020	shied	22222	
+salet	20020	hewer	00022	pound	00000	skier	22222	
+salet	20020	hewer	00022	pound	02000	sober	22222	
+salet	20020	hewer	00022	pound	00100	surer	22222	
+salet	20020	hewer	00022	pound	10100	super	22222	
+salet	20020	hewer	01020	speed	22222	
+salet	20020	hewer	11020	sheen	22220	sheep	22222	
+salet	20020	hewer	11020	sheen	22222	
+salet	20020	hewer	01022	sneer	22222	
+salet	20020	hewer	02020	seven	22022	semen	22222	
+salet	20020	hewer	02020	seven	22222	
+salet	20020	hewer	11022	sheer	22222	
+salet	20020	hewer	02022	sever	22222	
+salet	20020	hewer	00120	sinew	22222	
+salet	01020	inter	00020	abbey	22222	
+salet	01020	inter	00021	agree	22222	
+salet	01020	inter	00022	amber	22222	
+salet	01020	inter	01020	apnea	22222	
+salet	01020	inter	10022	aider	22222	
+salet	01020	inter	02020	annex	22222	
+salet	01020	inter	02022	anger	22222	
+salet	11020	askew	22222	
+salet	11020	askew	22020	ashen	22222	
+salet	02020	gormy	00000	haven	22222	
+salet	02020	gormy	00000	haven	02022	waxen	22222	
+salet	02020	gormy	01000	oaken	22222	
+salet	02020	gormy	10002	cagey	22222	
+salet	02020	gormy	00110	ramen	22222	
+salet	02020	gormy	00110	ramen	12120	maker	22222	
+salet	02020	gormy	20110	gamer	22222	
+salet	02020	gormy	00100	caper	02222	paper	22222	
+salet	02020	gormy	00100	caper	22222	
+salet	02020	gormy	00100	caper	02021	raven	22222	
+salet	02020	gormy	00100	caper	02022	waver	22022	wafer	22222	
+salet	02020	gormy	00100	caper	02022	waver	22222	
+salet	02020	gormy	00100	caper	02022	waver	02022	baker	22222	
+salet	02020	gormy	00100	caper	12022	racer	22222	
+salet	02020	gormy	10100	wager	02222	eager	22222	
+salet	02020	gormy	10100	wager	22222	
+salet	02020	gormy	20100	gazer	22222	
+salet	02020	gormy	00210	harem	22222	
+salet	02020	gormy	00001	payee	22222	
+salet	02020	gormy	00200	parer	02222	rarer	22222	
+salet	02020	gormy	00200	parer	22222	
+salet	02020	gormy	00101	payer	22222	
+salet	02020	gormy	20101	gayer	22222	
+salet	02020	gormy	01010	cameo	22222	
+salet	22020	safer	22022	saner	22222	
+salet	22020	safer	22222	
+salet	00120	bevor	21010	bowel	22222	
+salet	00120	bevor	01012	lower	22222	
+salet	00120	bevor	01012	lower	11022	older	22222	
+salet	00120	bevor	01000	picky	00000	wheel	22222	
+salet	00120	bevor	01000	picky	00000	wheel	00021	lumen	22222	
+salet	00120	bevor	01000	picky	10000	expel	22222	
+salet	00120	bevor	01000	picky	02010	liken	22222	
+salet	00120	bevor	01000	picky	00200	excel	22222	
+salet	00120	bevor	01000	picky	11000	impel	22222	
+salet	00120	bevor	01000	picky	21000	plied	22222	
+salet	00120	bevor	01000	picky	02000	linen	22222	
+salet	00120	bevor	01000	picky	22000	pixel	22222	
+salet	00120	bevor	01000	picky	00100	clued	22222	
+salet	00120	bevor	01000	picky	00010	kneel	22222	
+salet	00120	bevor	11000	libel	22222	
+salet	00120	bevor	21000	bleed	22220	bleep	22222	
+salet	00120	bevor	21000	bleed	22222	
+salet	00120	bevor	01002	flick	02010	ulcer	22222	
+salet	00120	bevor	01002	flick	02000	elder	22222	
+salet	00120	bevor	01002	flick	22000	flyer	22222	
+salet	00120	bevor	01002	flick	02200	plier	22222	
+salet	00120	bevor	01002	flick	22200	flier	22222	
+salet	00120	bevor	01002	flick	01100	liner	22222	
+salet	00120	bevor	02000	jewel	22222	
+salet	00120	bevor	01110	vowel	22222	
+salet	00120	bevor	21002	bluer	22222	
+salet	00120	bevor	22000	bezel	22222	
+salet	00120	bevor	02002	leper	22222	
+salet	00120	bevor	02201	revel	22222	
+salet	00120	bevor	01210	hovel	02222	novel	22222	
+salet	00120	bevor	01210	hovel	22222	
+salet	00120	bevor	01212	lover	22222	
+salet	00120	bevor	01001	gruel	02222	cruel	22222	
+salet	00120	bevor	01001	gruel	22222	
+salet	00120	bevor	02001	repel	22222	
+salet	00120	bevor	01202	liver	22222	
+salet	00120	bevor	02200	level	22222	
+salet	00120	bevor	12001	rebel	22222	
+salet	00120	bevor	22200	bevel	22222	
+salet	00120	bevor	02202	lever	22222	
+salet	00120	bevor	01010	model	22222	
+salet	00120	bevor	01010	model	02122	dowel	22222	
+salet	00120	bevor	01010	model	01221	olden	22222	
+salet	10120	loser	22222	
+salet	20120	spiel	22222	
+salet	20120	spiel	20021	sleek	22222	
+salet	20120	spiel	21021	sleep	22222	
+salet	01120	alien	22222	
+salet	01120	alien	21021	angel	22222	
+salet	02120	lynch	10000	gavel	22222	
+salet	02120	lynch	10000	gavel	12022	bagel	22222	
+salet	02120	lynch	20000	lapel	22022	label	22222	
+salet	02120	lynch	20000	lapel	22222	
+salet	02120	lynch	20000	lapel	22020	lager	22222	
+salet	02120	lynch	10001	hazel	22222	
+salet	02120	lynch	10200	panel	22222	
+salet	02120	lynch	21000	layer	22222	
+salet	02120	lynch	10100	navel	22222	
+salet	02120	lynch	20100	laden	22222	
+salet	02120	lynch	10010	camel	22222	
+salet	12120	easel	22222	
+salet	00220	cigar	00000	melee	22222	
+salet	00220	cigar	00002	ruler	22222	
+salet	00220	cigar	01002	idler	22222	
+salet	00220	cigar	02002	filer	22222	
+salet	00220	cigar	00100	golem	22222	
+salet	01220	alley	22222	
+salet	01220	alley	20220	abled	22222	
+salet	02220	paler	02222	baler	22222	
+salet	02220	paler	22222	
+salet	00001	north	01211	throw	22220	throb	22222	
+salet	00001	north	01211	throw	22222	
+salet	00001	north	02012	tough	22222	
+salet	00001	north	02012	tough	12002	botch	22222	
+salet	00001	north	02012	tough	22202	touch	22222	
+salet	00001	north	22012	notch	22222	
+salet	00001	north	00220	dirty	22222	
+salet	00001	north	01021	photo	22222	
+salet	00001	north	02220	forty	22222	
+salet	00001	north	02212	torch	22222	
+salet	00001	north	00022	width	22222	
+salet	00001	north	00022	width	02022	fifth	22222	
+salet	00001	north	20022	ninth	22222	
+salet	00001	north	00010	timid	22222	
+salet	00001	north	01022	quoth	22222	
+salet	00001	north	10010	tunic	22222	
+salet	00001	north	10010	tunic	20110	tying	22222	
+salet	00001	north	01010	outdo	22222	
+salet	00001	north	01010	outdo	20200	optic	22222	
+salet	00001	north	01010	outdo	22202	outgo	22222	
+salet	00001	north	02022	batty	00020	mouth	22222	
+salet	00001	north	02022	batty	00021	youth	22222	
+salet	00001	north	02022	batty	20020	booth	22222	
+salet	00001	north	02022	batty	00120	tooth	22222	
+salet	00001	north	12022	month	22222	
+salet	00001	north	02010	topic	22022	toxic	22222	
+salet	00001	north	02010	topic	22222	
+salet	00001	north	02010	topic	22000	toddy	22222	
+salet	00001	north	02010	topic	12020	motif	22222	
+salet	00001	north	00122
+	22222
+salet	00001	north	12010	toxin	22222	
+salet	00001	north	12010	toxin	22021	tonic	22222	
+salet	00001	north	00110	trick	22022	truck	22222	
+salet	00001	north	00110	trick	22222	
+salet	00001	north	00110	trick	22000	trump	22222	
+salet	00001	north	01122	froth	02222	broth	22222	
+salet	00001	north	01122	froth	22222	
+salet	00001	north	10110	trunk	22222	
+salet	00001	north	01110	tutor	22022	tumor	22222	
+salet	00001	north	01110	tutor	22222	
+salet	00001	north	01110	tutor	20021	troop	22222	
+salet	00001	north	11110	intro	22222	
+salet	00001	north	02110	motor	02222	rotor	22222	
+salet	00001	north	02110	motor	22222	
+salet	00001	north	00222	biome	02010	mirth	22222	
+salet	00001	north	00222	biome	02000	girth	22222	
+salet	00001	north	00222	biome	22000	birth	22222	
+salet	00001	north	00011	pithy	22222	
+salet	00001	north	00011	pithy	00110	thumb	22222	
+salet	00001	north	00011	pithy	01122	itchy	22222	
+salet	00001	north	00011	pithy	10110	thump	22222	
+salet	00001	north	00011	pithy	01110	thick	22222	
+salet	00001	north	10011	think	22220	thing	22222	
+salet	00001	north	10011	think	22222	
+salet	00001	north	01210	turbo	22222	
+salet	00001	north	11011	thong	22222	
+salet	00001	north	02222	forth	02222	worth	22222	
+salet	00001	north	02222	forth	22222	
+salet	00001	north	22222	
+salet	00001	north	00111	third	22222	
+salet	00001	north	00020	batik	00200	putty	22222	
+salet	00001	north	00020	batik	00110	fifty	22222	
+salet	00001	north	00020	batik	00210	ditty	02222	witty	22222	
+salet	00001	north	00020	batik	00210	ditty	22222	
+salet	00001	north	00020	batik	00211	kitty	22222	
+salet	00001	north	00020	batik	20210	bitty	22222	
+salet	00001	north	10020	minty	22222	
+salet	00001	north	10020	minty	01122	unity	22222	
+salet	00001	north	20020	nutty	22222	
+salet	00001	north	01020	ditto	22222	
+salet	00001	north	11111	thorn	22222	
+salet	00001	north	11020	pinto	22222	
+salet	00001	north	11020	pinto	00222	junto	22222	
+salet	00001	north	02020	motto	22222	
+salet	00001	north	02020	motto	02020	pouty	22222	
+salet	00001	north	02020	motto	02021	booty	22222	
+salet	00001	north	00012	biped	00000	hutch	22222	
+salet	00001	north	00012	biped	00001	dutch	22222	
+salet	00001	north	00012	biped	20000	butch	22222	
+salet	00001	north	00012	biped	01000	thigh	22222	
+salet	00001	north	00012	biped	02000	hitch	02222	witch	22222	
+salet	00001	north	00012	biped	02000	hitch	22222	
+salet	00001	north	00012	biped	02001	ditch	22222	
+salet	00001	north	00012	biped	02100	pitch	22222	
+salet	00001	north	00211	thrum	22222	
+salet	00001	north	00120	fritz	22222	
+salet	10001	gourd	00000	tipsy	22222	
+salet	10001	gourd	02010	torso	22222	
+salet	10001	gourd	00110	rusty	22222	
+salet	10001	gourd	00100	musty	22222	
+salet	10001	gourd	02110	torus	22222	
+salet	10001	gourd	00101	dusty	22222	
+salet	10001	gourd	20100	gusty	22222	
+salet	10001	gourd	00210	truss	22222	
+salet	10001	gourd	21100	gusto	22222	
+salet	20001	pinko	00000	study	22222	
+salet	20001	pinko	00000	study	22200	stuff	22222	
+salet	20001	pinko	10000	stump	22222	
+salet	20001	pinko	01000	stiff	22222	
+salet	20001	pinko	01000	stiff	21200	smith	22222	
+salet	20001	pinko	11000	strip	22222	
+salet	20001	pinko	00110	stunk	22222	
+salet	20001	pinko	02000	sixth	22220	sixty	22222	
+salet	20001	pinko	02000	sixth	22222	
+salet	20001	pinko	01110	stink	22222	
+salet	20001	pinko	00100	stung	22222	
+salet	20001	pinko	01100	sting	22222	
+salet	20001	pinko	00011	stork	22222	
+salet	20001	pinko	00011	stork	22202	stock	22222	
+salet	20001	pinko	00001	story	22220	storm	22222	
+salet	20001	pinko	00001	story	22222	
+salet	20001	pinko	00001	story	21200	sooth	22222	
+salet	20001	pinko	00001	story	21202	sooty	22222	
+salet	20001	pinko	00001	story	22200	stood	22222	
+salet	20001	pinko	00001	story	21100	south	22222	
+salet	20001	pinko	10001	stomp	22222	
+salet	20001	pinko	10001	stomp	22202	stoop	22222	
+salet	20001	pinko	01001	stoic	22222	
+salet	20001	pinko	00101	stony	22222	
+salet	20001	pinko	00010	stuck	22222	
+salet	20001	pinko	01010	stick	22222	
+salet	01001	again	10000	today	22222	
+salet	01001	again	10000	today	22020	topaz	22222	
+salet	01001	again	10000	today	11010	quota	22222	
+salet	01001	again	20000	actor	22222	
+salet	01001	again	00201	thank	22222	
+salet	01001	again	01201	twang	22222	
+salet	01001	again	20021	antic	22222	
+salet	01001	again	00222	train	22222	
+salet	01001	again	20100	aorta	22222	
+salet	01001	again	10210	tiara	22222	
+salet	01001	again	00200	track	22222	
+salet	01001	again	00200	track	12200	wrath	22222	
+salet	01001	again	00200	track	22200	tramp	22222	
+salet	01001	again	10001	junta	22222	
+salet	01001	again	20001	aunty	22222	
+salet	01001	again	11001	tonga	22222	
+salet	01001	again	10020	tibia	22222	
+salet	01001	again	20020	attic	22222	
+salet	01001	again	10010	triad	22222	
+salet	01001	again	20010	amity	22222	
+salet	01001	again	10012	titan	22222	
+salet	11001	trash	22222	
+salet	11001	trash	10110	vista	22222	
+salet	11001	trash	12120	artsy	22222	
+salet	21001	prink	00000	staff	22222	
+salet	21001	prink	00000	staff	21200	swath	22222	
+salet	21001	prink	00000	staff	22200	stash	22222	
+salet	21001	prink	10000	stamp	22222	
+salet	21001	prink	00002	stack	22222	
+salet	21001	prink	01000	stray	22220	straw	22222	
+salet	21001	prink	01000	stray	22222	
+salet	21001	prink	11000	strap	22222	
+salet	21001	prink	00110	stain	22222	
+salet	21001	prink	01002	stark	22222	
+salet	21001	prink	00020	stand	22222	
+salet	21001	prink	00022	stank	22222	
+salet	21001	prink	00100	staid	22222	
+salet	21001	prink	01100	stair	22222	
+salet	02001	corby	00000	datum	22222	
+salet	02001	corby	00000	datum	02100	faith	22222	
+salet	02001	corby	10000	humph	00002	watch	22222	
+salet	02001	corby	10000	humph	20002	hatch	22222	
+salet	02001	corby	10000	humph	00102	match	22222	
+salet	02001	corby	10000	humph	00012	patch	22222	
+salet	02001	corby	20000	catch	22222	
+salet	02001	corby	20000	catch	22110	cacti	22222	
+salet	02001	corby	00002	feign	00000	patty	02222	tatty	22222	
+salet	02001	corby	00002	feign	00000	patty	22222	
+salet	02001	corby	00002	feign	10000	taffy	22222	
+salet	02001	corby	00002	feign	00001	tawny	22222	
+salet	02001	corby	00002	feign	20000	fatty	22222	
+salet	02001	corby	00002	feign	00021	tangy	22222	
+salet	02001	corby	01000	patio	02102	tango	22222	
+salet	02001	corby	01000	patio	22222	
+salet	02001	corby	10002	tacky	22222	
+salet	02001	corby	20002	catty	22222	
+salet	02001	corby	00100	tapir	22222	
+salet	02001	corby	00102	ratty	22222	
+salet	02001	corby	01100	ratio	22222	
+salet	02001	corby	00202	party	02222	warty	22222	
+salet	02001	corby	00202	party	22222	
+salet	02001	corby	00202	party	02212	tardy	22222	
+salet	02001	corby	00022	tabby	22222	
+salet	02001	corby	10010	batch	22222	
+salet	02001	corby	00012	batty	22222	
+salet	02001	corby	01010	baton	22222	
+salet	02001	corby	01010	baton	12120	taboo	22222	
+salet	12001	pithy	20202	patsy	22222	
+salet	12001	pithy	00112	hasty	22222	
+salet	12001	pithy	20100	pasta	22222	
+salet	12001	pithy	00102	nasty	02222	tasty	22222	
+salet	12001	pithy	00102	nasty	22222	
+salet	12001	pithy	20102	pasty	22222	
+salet	22001	satyr	22222	
+salet	22001	satyr	22200	satin	22222	
+salet	00101	troll	10120	hotly	22222	
+salet	00101	troll	22222	
+salet	00101	troll	10002	until	22222	
+salet	00101	troll	10110	lofty	22222	
+salet	00101	troll	21002	twirl	22222	
+salet	00101	troll	10010	blitz	22222	
+salet	00101	troll	10210	cloth	22222	
+salet	00101	troll	22020	truly	22222	
+salet	10101	lusty	22222	
+salet	20101	stool	22222	
+salet	20101	stool	21201	sloth	22222	
+salet	20101	stool	22002	still	22222	
+salet	01101	artic	12100	trawl	22222	
+salet	01101	artic	10200	total	22222	
+salet	01101	artic	20200	aptly	22222	
+salet	01101	artic	10201	octal	22222	
+salet	01101	artic	10110	tidal	22222	
+salet	01101	artic	11200	ultra	22222	
+salet	01101	artic	12120	trail	22222	
+salet	01101	artic	21200	altar	22222	
+salet	01101	artic	10100	loath	22222	
+salet	01101	artic	10100	loath	10110	tubal	22222	
+salet	01101	artic	10100	loath	12110	tonal	22222	
+salet	01101	artic	20100	atoll	22222	
+salet	01101	artic	12110	trial	22222	
+salet	01101	artic	10210	vital	22222	
+salet	21101	stalk	22220	stall	22222	
+salet	21101	stalk	22222	
+salet	02101	natal	02222	fatal	22222	
+salet	02101	natal	22222	
+salet	02101	natal	02201	latch	22222	
+salet	00201	tulip	22222	
+salet	00201	tulip	10210	filth	22222	
+salet	02201	tally	22222	
+salet	02201	tally	12200	waltz	22222	
+salet	02201	tally	22200	talon	22222	
+salet	22201	salty	22222	
+salet	00011	trite	00021	depth	22222	
+salet	00011	trite	00021	depth	01220	empty	22222	
+salet	00011	trite	00021	depth	02021	hefty	22222	
+salet	00011	trite	10021	jetty	02222	petty	22222	
+salet	00011	trite	10021	jetty	22222	
+salet	00011	trite	20112	tithe	22222	
+salet	00011	trite	20021	teeth	22022	tenth	22222	
+salet	00011	trite	20021	teeth	22222	
+salet	00011	trite	01021	berth	22222	
+salet	00011	trite	00121	piety	22222	
+salet	00011	trite	10001	fetch	22222	
+salet	00011	trite	10001	fetch	02200	detox	22222	
+salet	00011	trite	20001	tempo	22222	
+salet	00011	trite	20001	tempo	22000	teddy	22222	
+salet	00011	trite	11001	retro	22220	retry	22222	
+salet	00011	trite	11001	retro	02222	metro	22222	
+salet	00011	trite	11001	retro	22222	
+salet	00011	trite	11001	retro	22200	retch	22222	
+salet	00011	trite	11001	retro	01220	entry	22222	
+salet	00011	trite	21001	tenor	22222	
+salet	00011	trite	00022	chute	00122	quote	22222	
+salet	00011	trite	00022	chute	22222	
+salet	00011	trite	22001	trend	22222	
+salet	00011	trite	00221	deity	22222	
+salet	00011	trite	10022	butte	22222	
+salet	00011	trite	10101	fetid	01120	ethic	22222	
+salet	00011	trite	10101	fetid	22222	
+salet	00011	trite	01022	route	22222	
+salet	00011	trite	01022	route	12022	forte	22222	
+salet	00011	trite	20101	tepid	22222	
+salet	00011	trite	02022	wrote	22222	
+salet	00011	trite	02022	wrote	02022	brute	22222	
+salet	00011	trite	21101	their	22222	
+salet	00011	trite	10002	etude	22222	
+salet	00011	trite	20002	theme	22022	thyme	22222	
+salet	00011	trite	20002	theme	22222	
+salet	00011	trite	21002	there	22222	
+salet	00011	trite	22002	trove	22222	
+salet	00011	trite	22002	trove	22002	truce	22222	
+salet	00011	trite	22002	trove	22202	trope	22222	
+salet	00011	trite	00222	unite	22222	
+salet	00011	trite	00222	unite	00222	white	22222	
+salet	00011	trite	00222	unite	10222	quite	22222	
+salet	00011	trite	10102	cutie	22222	
+salet	00011	trite	10102	cutie	01222	untie	22222	
+salet	00011	trite	02222	write	22222	
+salet	00011	trite	22222	
+salet	00011	trite	20202	twice	22222	
+salet	00011	trite	20202	twice	22202	twine	22222	
+salet	00011	trite	22202	bench	01000	tripe	22222	
+salet	00011	trite	22202	bench	11000	tribe	22222	
+salet	00011	trite	22202	bench	01020	trice	22222	
+salet	10011	troth	10000	fetus	22222	
+salet	10011	troth	20000	tense	22222	
+salet	10011	troth	20001	these	22222	
+salet	10011	troth	21000	terse	22222	
+salet	10011	troth	20201	those	22222	
+salet	10011	troth	00020	zesty	22222	
+salet	10011	troth	20020	testy	22222	
+salet	10011	troth	10101	ethos	22222	
+salet	10011	troth	00120	pesto	22222	
+salet	20011	mourn	00000	spite	22222	
+salet	20011	mourn	10000	smite	22222	
+salet	20011	mourn	00002	stein	22222	
+salet	20011	mourn	01000	stove	22222	
+salet	20011	mourn	01000	stove	22202	stoke	22222	
+salet	20011	mourn	11000	smote	22222	
+salet	20011	mourn	01001	stone	22222	
+salet	20011	mourn	00022	stern	22222	
+salet	20011	mourn	00100	suite	21011	setup	22222	
+salet	20011	mourn	00100	suite	22222	
+salet	20011	mourn	01020	store	22222	
+salet	01011	crate	01211	teary	22222	
+salet	01011	crate	10122	acute	22222	
+salet	01011	crate	00112	atone	22222	
+salet	01011	crate	00222	abate	22222	
+salet	01011	crate	00222	abate	00222	ovate	22222	
+salet	01011	crate	00222	abate	20222	agate	22222	
+salet	01011	crate	00121	theta	22222	
+salet	01011	crate	02222	grate	02222	irate	22222	
+salet	01011	crate	02222	grate	22222	
+salet	01011	crate	22222	
+salet	01011	crate	00111	tweak	22222	
+salet	01011	crate	02212	trade	22222	
+salet	01011	crate	12212	trace	22222	
+salet	01011	crate	01111	terra	22222	
+salet	01011	crate	01111	terra	11022	extra	22222	
+salet	01011	crate	00221	heath	02222	death	22222	
+salet	01011	crate	00221	heath	22222	
+salet	01011	crate	00221	heath	02220	meaty	22222	
+salet	01011	crate	02111	tread	22222	
+salet	01011	crate	10211	teach	22222	
+salet	11011	tease	22222	
+salet	21011	grike	00001	stead	22220	steam	22222	
+salet	21011	grike	00001	stead	22222	
+salet	21011	grike	00002	stave	22222	
+salet	21011	grike	00002	stave	22202	state	22222	
+salet	21011	grike	10002	stage	22222	
+salet	21011	grike	01002	stare	22222	
+salet	21011	grike	00022	stake	22222	
+salet	21011	grike	00011	steak	22222	
+salet	21011	grike	00012	skate	22222	
+salet	02011	bathe	22222	
+salet	02011	bathe	02111	earth	22222	
+salet	02011	bathe	02112	haute	22222	
+salet	12011	bench	01000	whelp	00100	taste	22222	
+salet	12011	bench	01000	whelp	00101	paste	22222	
+salet	12011	bench	01000	whelp	20100	waste	22222	
+salet	12011	bench	01001	haste	22222	
+salet	12011	bench	21000	baste	22222	
+salet	12011	bench	01010	caste	22222	
+salet	22011	saute	22222	
+salet	00111	title	11012	elite	22222	
+salet	00111	title	22222	
+salet	00111	title	02212	lithe	22222	
+salet	00111	title	11022	utile	22222	
+salet	00111	title	10011	lefty	22222	
+salet	00111	title	00211	extol	22222	
+salet	00111	title	10012	flute	22222	
+salet	20111	stole	22022	style	22222	
+salet	20111	stole	22222	
+salet	01111	champ	00200	elate	22222	
+salet	01111	champ	00201	plate	22222	
+salet	01111	champ	00110	metal	22222	
+salet	01111	champ	00100	fetal	22222	
+salet	01111	champ	00101	petal	22222	
+salet	21111	stale	22222	
+salet	21111	stale	21212	slate	22222	
+salet	21111	stale	22111	steal	22222	
+salet	02111	lathe	12102	table	22222	
+salet	02111	lathe	22222	
+salet	02111	lathe	22202	latte	22222	
+salet	00211	tilde	22222	
+salet	00211	tilde	20202	tulle	22222	
+salet	01211	delta	22222	
+salet	00021	tutor	20000	tweed	20120	tepee	22222	
+salet	00021	tutor	20000	tweed	22222	
+salet	00021	tutor	20000	tweed	20020	thief	22222	
+salet	00021	tutor	10002	ether	22222	
+salet	00021	tutor	20002	tiger	22022	timer	22222	
+salet	00021	tutor	20002	tiger	22222	
+salet	00021	tutor	21002	truer	22222	
+salet	00021	tutor	22002	tuber	22222	
+salet	00021	tutor	00210	often	22222	
+salet	00021	tutor	20210	totem	22222	
+salet	00021	tutor	00212	voter	22222	
+salet	00021	tutor	10212	otter	22222	
+salet	00021	tutor	20001	threw	22220	three	22222	
+salet	00021	tutor	20001	threw	20120	tried	22222	
+salet	00021	tutor	20001	threw	22222	
+salet	00021	tutor	00202	deter	02222	meter	22222	
+salet	00021	tutor	00202	deter	22222	
+salet	00021	tutor	00202	deter	00222	inter	22222	
+salet	00021	tutor	00202	deter	01222	enter	22222	
+salet	00021	tutor	02212	outer	22222	
+salet	00021	tutor	11202	utter	22222	
+salet	00021	tutor	20010	token	22222	
+salet	00021	tutor	10012	other	22222	
+salet	00021	tutor	20012	tower	22222	
+salet	10021	ester	22222	
+salet	20021	dwarf	00000	steep	22222	
+salet	20021	dwarf	10000	steed	22222	
+salet	20021	dwarf	00010	steer	22222	
+salet	01021	after	22222	
+salet	02021	there	10110	cater	02222	water	22222	
+salet	02021	there	10110	cater	22222	
+salet	02021	there	20110	humph	00000	taker	22222	
+salet	02021	there	20110	humph	00200	tamer	22222	
+salet	02021	there	20110	humph	00010	taper	22222	
+salet	02021	there	10111	eater	22222	
+salet	02021	there	11110	hater	22222	
+salet	02021	there	10100	matey	22222	
+salet	02021	there	20100	taken	22222	
+salet	02021	there	10101	eaten	22222	
+salet	00121	hotel	02222	motel	22222	
+salet	00121	hotel	22222	
+salet	00121	hotel	02122	towel	22222	
+salet	00121	hotel	00222	betel	22222	
+salet	20121	steel	22222	
+salet	01121	alter	22222	
+salet	02121	later	22222	
+salet	00002	groin	02120	orbit	22222	
+salet	00002	groin	02000	crypt	22222	
+salet	00002	groin	00021	unfit	22222	
+salet	00002	groin	00100	doubt	22222	
+salet	00002	groin	10100	ought	22222	
+salet	00002	groin	01100	robot	22222	
+salet	00002	groin	01100	robot	12002	court	22222	
+salet	00002	groin	02220	droit	22222	
+salet	00002	groin	00001	uncut	22222	
+salet	00002	groin	01001	burnt	22222	
+salet	00002	groin	02001	brunt	22222	
+salet	00002	groin	02200	trout	22222	
+salet	00002	groin	22001	grunt	22222	
+salet	00002	groin	22200	grout	22222	
+salet	00002	groin	00101	mount	02222	count	22222	
+salet	00002	groin	00101	mount	22222	
+salet	00002	groin	00101	mount	02112	donut	22222	
+salet	00002	groin	00010	twixt	22222	
+salet	00002	groin	10010	dwarf	00000	might	02222	tight	22222	
+salet	00002	groin	10010	dwarf	00000	might	22222	
+salet	00002	groin	10010	dwarf	00001	fight	22222	
+salet	00002	groin	10010	dwarf	01000	wight	22222	
+salet	00002	groin	11010	right	22222	
+salet	00002	groin	02010	drift	22222	
+salet	00002	groin	00110	idiot	22222	
+salet	00002	groin	00110	idiot	10022	pivot	22222	
+salet	00002	groin	10110	bigot	22222	
+salet	00002	groin	02201	front	22222	
+salet	00002	groin	00011	input	22222	
+salet	00002	groin	10011	night	22222	
+salet	00002	groin	02011	print	22222	
+salet	00002	groin	00111	point	02222	joint	22222	
+salet	00002	groin	00111	point	22222	
+salet	00002	groin	10111	ingot	22222	
+salet	00002	groin	10020	digit	22222	
+salet	00002	groin	02020	fruit	22222	
+salet	00002	groin	00120	vomit	22222	
+salet	10002	boric	02010	fehme	00000	joist	22222	
+salet	10002	boric	02010	fehme	20000	foist	22222	
+salet	10002	boric	02010	fehme	00100	hoist	22222	
+salet	10002	boric	02010	fehme	00010	moist	22222	
+salet	10002	boric	01000	ghost	22222	
+salet	10002	boric	00110	wrist	22222	
+salet	10002	boric	02000	joust	22222	
+salet	10002	boric	22000	boost	22222	
+salet	10002	boric	00100	tryst	22022	trust	22222	
+salet	10002	boric	00100	tryst	22222	
+salet	10002	boric	01100	frost	22222	
+salet	10002	boric	00210	first	22222	
+salet	10002	boric	02100	roost	22222	
+salet	10002	boric	20200	burst	22222	
+salet	10002	boric	00020	visit	22222	
+salet	10002	boric	02200	worst	22222	
+salet	10002	boric	00101	crust	22222	
+salet	10002	boric	00010	midst	22222	
+salet	10002	boric	00010	midst	01022	twist	22222	
+salet	10002	boric	02020	posit	22222	
+salet	20002	churn	00000	swift	22222	
+salet	20002	churn	01000	sight	22222	
+salet	20002	churn	00201	stunt	22222	
+salet	20002	churn	00110	strut	22222	
+salet	20002	churn	02000	shift	22222	
+salet	20002	churn	02000	shift	22002	shoot	22222	
+salet	20002	churn	00021	snort	22222	
+salet	20002	churn	00220	spurt	22222	
+salet	20002	churn	00100	stout	22222	
+salet	20002	churn	00100	stout	20222	spout	22222	
+salet	20002	churn	02201	shunt	22222	
+salet	20002	churn	10100	scout	22222	
+salet	20002	churn	02100	shout	22222	
+salet	20002	churn	00001	stint	22222	
+salet	20002	churn	00020	sport	22222	
+salet	20002	churn	00020	sport	20022	skirt	22222	
+salet	20002	churn	00101	snout	22222	
+salet	20002	churn	02020	short	22022	shirt	22222	
+salet	20002	churn	02020	short	22222	
+salet	01002	croup	00000	admit	22222	
+salet	01002	croup	00000	admit	20022	await	22222	
+salet	01002	croup	00000	admit	10012	giant	22222	
+salet	01002	croup	20000	chant	22222	
+salet	01002	croup	00201	adopt	22222	
+salet	01002	croup	21000	chart	22222	
+salet	01002	croup	02000	graft	02222	draft	22222	
+salet	01002	croup	02000	graft	22222	
+salet	01002	croup	02000	graft	02202	trait	22222	
+salet	01002	croup	02000	graft	22202	grant	22222	
+salet	01002	croup	12000	tract	22222	
+salet	01002	croup	22000	craft	22222	
+salet	01002	croup	00220	about	22222	
+salet	01002	croup	00100	abbot	22222	
+salet	01002	croup	00001	adapt	22222	
+salet	01002	croup	00200	afoot	22222	
+salet	01002	croup	01001	apart	22222	
+salet	01002	croup	01200	abort	22222	
+salet	01002	croup	00010	audit	22222	
+salet	01002	croup	01010	quart	22222	
+salet	11002	trace	10200	boast	22222	
+salet	11002	trace	20200	toast	22222	
+salet	11002	trace	10110	ascot	22222	
+salet	11002	trace	11200	roast	22222	
+salet	11002	trace	10100	angst	22222	
+salet	11002	trace	10210	coast	22222	
+salet	21002	champ	00200	start	22222	
+salet	21002	champ	10200	scant	22222	
+salet	21002	champ	02200	shaft	22222	
+salet	21002	champ	00100	squat	22222	
+salet	21002	champ	00210	smart	22222	
+salet	02002	touch	10000	faint	02222	paint	22222	
+salet	02002	touch	10000	faint	22222	
+salet	02002	touch	20000	taint	22222	
+salet	02002	touch	10001	habit	22222	
+salet	02002	touch	10200	judge	01000	vaunt	22222	
+salet	02002	touch	10200	judge	21000	jaunt	22222	
+salet	02002	touch	10200	judge	01100	daunt	22222	
+salet	02002	touch	10200	judge	01010	gaunt	22222	
+salet	02002	touch	20200	taunt	22222	
+salet	02002	touch	10201	haunt	22222	
+salet	02002	touch	21000	tarot	22222	
+salet	02002	touch	10110	caput	22222	
+salet	02002	touch	10100	gamut	22222	
+salet	02002	touch	10010	carat	22222	
+salet	02002	touch	20010	tacit	22222	
+salet	02002	touch	10011	yacht	22222	
+salet	12002	waist	22222	
+salet	22002	saint	22222	
+salet	00102	clung	22100	clout	22222	
+salet	00102	clung	01000	limit	22222	
+salet	00102	clung	01001	light	22222	
+salet	00102	clung	01200	moult	22222	
+salet	00102	clung	02000	flirt	22222	
+salet	00102	clung	02200	blurt	22222	
+salet	00102	clung	01100	built	02222	quilt	22222	
+salet	00102	clung	01100	built	22222	
+salet	00102	clung	02020	flint	22222	
+salet	00102	clung	01101	guilt	22222	
+salet	00102	clung	02021	glint	22222	
+salet	00102	clung	02220	blunt	22222	
+salet	00102	clung	02100	flout	22222	
+salet	20102	spilt	22222	
+salet	20102	spilt	20222	stilt	22222	
+salet	01102	fling	01000	adult	22222	
+salet	01102	fling	02000	bloat	22222	
+salet	01102	fling	12000	aloft	22222	
+salet	01102	fling	02001	gloat	22222	
+salet	01102	fling	22000	float	22222	
+salet	01102	fling	02020	plant	22222	
+salet	01102	fling	02100	plait	22222	
+salet	11102	blast	22222	
+salet	21102	shalt	20212	slant	22222	
+salet	21102	shalt	22222	
+salet	02102	fault	02222	vault	22222	
+salet	02102	fault	22222	
+salet	00202	pilot	22222	
+salet	00202	pilot	01202	unlit	22222	
+salet	20202	split	22222	
+salet	01202	allot	22222	
+salet	21202	splat	22222	
+salet	00012	curio	00000	event	22222	
+salet	00012	curio	00000	event	00202	theft	22222	
+salet	00012	curio	10000	eject	22222	
+salet	00012	curio	01000	debut	22222	
+salet	00012	curio	00110	inert	22222	
+salet	00012	curio	00220	merit	22222	
+salet	00012	curio	00100	exert	22222	
+salet	00012	curio	10100	erect	22222	
+salet	00012	curio	20100	crept	22222	
+salet	00012	curio	01100	rebut	11012	erupt	22222	
+salet	00012	curio	01100	rebut	22222	
+salet	00012	curio	11100	recut	22222	
+salet	00012	curio	00001	depot	22222	
+salet	00012	curio	00020	debit	22222	
+salet	00012	curio	00020	debit	02122	befit	22222	
+salet	00012	curio	00101	overt	22222	
+salet	00012	curio	00010	inept	22222	
+salet	00012	curio	00010	inept	10102	eight	22222	
+salet	00012	curio	10010	edict	22222	
+salet	00012	curio	10010	edict	20222	evict	22222	
+salet	00012	curio	00120	remit	22022	refit	22222	
+salet	00012	curio	00120	remit	22222	
+salet	10012	quich	00000	wrest	22222	
+salet	10012	quich	00200	exist	22222	
+salet	10012	quich	00201	heist	22222	
+salet	10012	quich	02000	guest	22222	
+salet	10012	quich	22000	quest	22222	
+salet	10012	quich	00010	crest	22222	
+salet	10012	quich	00011	chest	22222	
+salet	20012	swept	20212	spent	22222	
+salet	20012	swept	22222	
+salet	20012	swept	20202	scent	22222	
+salet	01012	recap	02010	meant	22222	
+salet	01012	recap	12010	heart	22222	
+salet	01012	recap	01120	cheat	22222	
+salet	01012	recap	01110	enact	22222	
+salet	01012	recap	01110	enact	20222	exact	22222	
+salet	01012	recap	01020	wheat	22222	
+salet	01012	recap	11020	great	02222	treat	22222	
+salet	01012	recap	11020	great	22222	
+salet	01012	recap	22110	react	22222	
+salet	01012	recap	02020	begat	22222	
+salet	01012	recap	01010	agent	22222	
+salet	01012	recap	11010	avert	22222	
+salet	01012	recap	01011	adept	22222	
+salet	11012	batty	01100	feast	22222	
+salet	11012	batty	01101	yeast	22222	
+salet	11012	batty	21100	beast	22222	
+salet	21012	sweat	22222	
+salet	00112	unfed	02010	knelt	22222	
+salet	00112	unfed	00110	cleft	22222	
+salet	00112	unfed	00010	elect	22222	
+salet	00112	unfed	10010	exult	22222	
+salet	00112	unfed	00011	dwelt	22222	
+salet	20112	smelt	20212	slept	22222	
+salet	20112	smelt	22222	
+salet	20112	smelt	20222	spelt	22222	
+salet	01112	recap	02010	leant	22222	
+salet	01112	recap	02010	leant	12202	dealt	22222	
+salet	01112	recap	01120	cleat	22222	
+salet	01112	recap	02011	leapt	22222	
+salet	01112	recap	01020	bleat	22222	
+salet	01112	recap	01021	pleat	22222	
+salet	01112	recap	01010	exalt	22222	
+salet	01112	recap	11010	alert	22222	
+salet	11112	least	22222	
+salet	01212	eclat	22222	
+salet	00022	cerne	02011	tenet	22222	
+salet	00022	cerne	01000	quiet	22222	
+salet	00022	cerne	01000	quiet	02022	duvet	22222	
+salet	00022	cerne	11000	octet	22222	
+salet	00022	cerne	01001	tweet	22222	
+salet	00022	cerne	21000	comet	22022	covet	22222	
+salet	00022	cerne	21000	comet	22222	
+salet	00022	cerne	01201	egret	22222	
+salet	00022	cerne	02001	beget	22222	
+salet	00022	cerne	02201	beret	22222	
+salet	00022	cerne	01100	rivet	22222	
+salet	00022	cerne	01101	greet	22222	
+salet	00022	cerne	01010	unmet	22222	
+salet	10022	round	00000	beset	22222	
+salet	10022	round	20000	reset	22222	
+salet	10022	round	00110	unset	22222	
+salet	10022	round	00100	upset	22222	
+salet	10022	round	01010	onset	22222	
+salet	20022	sweet	22222	
+salet	20022	sweet	20222	sheet	22222	
+salet	11022	asset	22222	
+salet	02022	facet	22222	
+salet	02022	facet	02122	cadet	22222	
+salet	00122	fleet	22222	
+salet	20122	sleet	22222	
+salet	00222	filet	22222	
+salet	00222	filet	01222	inlet	22222	
+salet	10222	islet	22222	
+salet	02222	valet	22222	
